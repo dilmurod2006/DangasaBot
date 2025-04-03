@@ -1,0 +1,14 @@
+{
+    "Book 1": {
+        "Unit 1": [
+            {
+                "eng": "afraid",
+                "uz": "qo'rqqan, cho'chigan",
+                "info": "When someone is afraid, they feel fear.",
+                "img":"bunda telegramdagi file_id ni saqlanadi",
+                "word_voice":"bunda so'zning talafuzi mp3/ogg formatda saqlanadi va telegramdagi file_id saqlanadi.",
+                "info_voice":"bunda gapning talafuzi mp3/ogg formatda saqlanadi va telegramdagi file_id saqlanadi."
+            }
+        ]
+        }
+}
