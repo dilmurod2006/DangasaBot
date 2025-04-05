@@ -1,0 +1,122 @@
+accent 
+She’s got a really strong accent.
+blow 
+The wind is blowing really hard.
+busy
+The busiest airport of the three is Beijing, then Dubai and then Los Angeles.
+camp
+You are going to walk 10km from the main camp.
+climate 
+Siberia has a very cold climate.
+close 
+He’s a close friend of mine.
+cloudy
+It’s going to be cloudy this afternoon.
+coast 
+There are some beautiful beaches near the west coast of Thailand.
+compass
+I think a map and compass are the most useful things.
+crazy 
+People do some crazy things!
+deep 
+Lake Baikal is more than 600 metres deep.
+desert 
+It’s a cold desert because it’s so far north and it sometimes snows there.
+dry 
+It’s dry this morning.
+east 
+The east of the country is quite cold.
+equipment 
+The runners have to carry their food and equipment.
+first-aid kit
+What happens if we need the first-aid kit?
+foggy
+It’s cold and foggy.
+freeze 
+It’s so cold. We’re going to freeze if we go outside.
+freezing
+It’s freezing here today.
+hard worker
+He’s a really hard worker.
+high 
+Did you have a high score in your last test?
+hot 
+It’s the hottest time of the year.
+icy
+The roads are very icy.
+island 
+The Andaman Sea has some very beautiful tropical islands and white sandy beaches near the west coast of Thailand.
+jungle
+The Amazon jungle is the biggest area of rainforest in the world.
+lake 
+It’s the biggest and deepest lake in the world.
+large 
+Mount Kilimanjaro is one of the largest volcanoes in the world.
+lighter
+I think a lighter is more important than a stove.
+low 
+Which jobs usually have the lowest salaries?
+mild 
+They have mild weather on the island.
+north 
+There are more mountains in the north.
+oasis
+Al Hasa is the largest oasis in Saudi Arabia.
+rain 
+It’s cloudy this morning but dry, so we don’t expect any rain.
+rainy
+It’s cloudy and rainy here today.
+river 
+Which river is the longest in the world?
+sandy
+There are lots of beautiful sandy beaches on the coast.
+score 
+He got a low score in the test.
+shine 
+The sun is going to shine all afternoon.
+sleeper
+He’s a light sleeper.
+snow 
+There was a lot of snow last night.
+snowy
+It’s cold and snowy here this morning.
+south 
+The best beaches are in the south.
+storm 
+There was a big storm.
+stove 
+I think we should take one stove instead of three.
+sunny
+By the afternoon, it’s going to be warm and sunny but not really hot.
+survival
+The survival camp is in the rainforest next to the river.
+survive 
+You need to survive for three days and two nights and find your way back to the main camp.
+temperature 
+By the afternoon, it’s going to be warm and sunny but not really hot, with temperatures of around 20 degrees Celsius.
+tent 
+You can take a tent and a sleeping bag.
+thunder
+There was a big storm last night with very loud thunder.
+torch
+I’m going to take a torch to see in the dark.
+traffic 
+Is there usually heavy traffic on the way to this class?
+tropical 
+There are some beautiful tropical islands there.
+warm 
+It’s going to be warm this afternoon.
+waterfall
+It’s a very big waterfall on the Zambezi River.
+weather 
+The forecast is for mild weather tomorrow.
+weather forecast
+Did you hear the weather forecast this morning?
+west 
+We’re going to the countryside in the west.
+wet 
+It’s going to be wet this afternoon.
+windy
+It was really windy.
+worker 
+Martha’s a hard worker. She works very long hours.

@@ -1,0 +1,156 @@
+above 
+My bed is above the kitchen.
+airport 
+The roads to Coober Pedy are good and there’s an airport.
+armchair
+There’s an armchair in the living room.
+bank 
+Where’s the bank?
+bathroom 
+There’s a small bathroom in my flat.
+bed 
+There’s a small table next to my bed.
+bedroom 
+In my house, there are three bedrooms.
+behind 
+The East River is behind the building.
+between 
+My flat’s on the fourth floor of a building between Delancey Street and Grand Street.
+big 
+I need a big desk to work on.
+booking form 
+Bring the booking form with you.
+bookshop
+There’s a bookshop opposite my flat.
+building 
+It’s a modern building.
+campsite
+There are four or five hotels and there’s also a campsite.
+capital 
+Coober Pedy is the opal capital of the world.
+carpet 
+There’s a red carpet on the floor.
+cheap 
+My flat’s in a cheap part of town.
+chemist 
+Is there a chemist near hear?
+cinema 
+There’s a cinema near the hotel.
+clean 
+I like to keep them very clean.
+cooker 
+In the kitchen there’s a cooker.
+dining room
+There’s a dining room next to the kitchen.
+dishwasher
+The dishwasher is under the sink.
+easy 
+It’s easy to find a flat in my town.
+expensive 
+My computer is new and expensive.
+fantastic
+The food is fantastic.
+flat 
+I live in a flat.
+fridge 
+The fridge is next to the sink.
+furniture 
+My furniture is mostly old.
+garage 
+There’s a garage opposite my flat.
+hairdresser’s
+In the hotel, there is a swimming pool, a hairdresser’s and ninety-five bedrooms.
+hospital 
+She works in a hospital.
+housemate
+My housemates are very messy.
+in front of
+It’s on the floor in front of the window.
+instructions 
+Here are the instructions.
+kitchen 
+There’s a small kitchen in my flat.
+launderette
+I go to the launderette to wash my clothes.
+lazy 
+They are very lazy.
+library 
+Excuse me, where’s the library?
+light 
+There are lots of windows, so it’s very light.
+living room
+In my flat, there is a living room.
+market 
+It’s behind the market.
+messy
+I’m a messy worker.
+mine 
+A lot of the people in Coober Pedy work in the opal mines.
+museum 
+There’s a museum about the history of the town.
+next to 
+It’s next to a restaurant.
+old 
+I live in an old town.
+old-fashioned 
+My house is very old-fashioned.
+on 
+My bed is on a shelf.
+opal
+Near Coober Pedy, there are opals under the ground.
+opposite 
+The building is opposite a -hour garage.
+organized 
+I work from home, so I keep everything tidy and organized.
+palace 
+It’s next to the palace.
+passport 
+You usually need your passport to travel from here.
+post office 
+Where’s the post office?
+railway station
+There isn’t a railway station.
+scarf
+Take a hat or scarf to wear on your head.
+shelf 
+My bed is on a shelf above the kitchen.
+sink 
+In the kitchen, there’s a sink.
+studio flat
+I live in a studio flat.
+swimming pool 
+There’s an underground swimming pool.
+table 
+There’s a table next to the armchair.
+temple
+Please don’t take photographs inside the temple.
+terrible 
+It’s a terrible restaurant.
+theatre 
+Is there a theatre in Coober Pedy?
+tidy 
+Are you a tidy person?
+toilet 
+There’s a toilet next to the bedroom.
+tour 
+These are the instructions for tomorrow’s tour.
+tourist 
+There aren’t any tourists there.
+tourist information centre 
+There’s a big tourist information centre.
+town 
+There are some nice restaurants in the town centre.
+travel 
+You need a passport to travel there.
+ugly 
+It’s an ugly building.
+under 
+The toilet and shower are under the shelf.
+underground 
+Are there any underground buildings we can visit?
+visit 
+So can people visit the place?
+washing machine
+There isn’t a washing machine in my flat.
+window 
+There’s a table under the window.

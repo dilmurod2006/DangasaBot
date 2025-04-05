@@ -1,0 +1,116 @@
+accident 
+He died in a flying accident in 869.
+actress 
+Ingrid Bergman was an actress from Sweden.
+adventure 
+They both loved adventure.
+article 
+This is an interesting article about people from history.
+astronaut
+His dream was to be an astronaut.
+birthday 
+When is your birthday?
+boss 
+Bill Gates was the boss of Microsoft.
+carpenter
+Wnek was a carpenter and had no school education.
+century 
+The Brothers Grimm lived in the 9th century.
+characters 
+The characters were real children from different places in England.
+collect 
+They were interested in tales and started to collect them.
+die 
+After their father died, life was very difficult.
+document 
+The films are important historical documents.
+dream 
+Her dream was to be married and have a family.
+foundation 
+They use the Gates Foundation to help poor people.
+glider
+He wanted to make the world’s first glider.
+grow up 
+We watch him as he grows up.
+horse 
+She and her father travelled around California on horses.
+last year 
+We were on holiday in South Africa last year.
+leader 
+He was a civil rights leader from the USA.
+party 
+I can come to your party.
+real 
+The characters were real children.
+return 
+When she returned to the USA, she talked to people about 
+her travels.
+scientist 
+Marie Skłodowska-Curie was a scientist from Poland.
+storyteller
+Hans Christian Andersen was a famous storyteller from 
+Denmark.
+tale
+He wrote tales for children.
+was
+They were born in Hanau, Germany.
+yesterday 
+I listened to her for two hours yesterday.
+first
+She finished in first place in the race.
+second
+Today is the second day of the workshop.
+third
+His office is on the third floor of the building.
+fourth
+They celebrated their fourth wedding anniversary yesterday.
+fifth
+The fifth book in the series was the most exciting.
+sixth
+We arrived at the sixth station of our journey.
+seventh
+The team scored its seventh goal in the match.
+eighth
+The cake was baked for the eighth birthday of their child.
+ninth
+He lives in the ninth house on the street.
+tenth
+Tomorrow will be the tenth time we visit this park.
+eleventh
+He won the prize on the eleventh of May.
+twelfth
+The twelfth chapter of the book is my favorite.
+twentieth
+She celebrated her twentieth birthday with her friends.
+twenty-first
+The conference is scheduled for the twenty-first of July.
+twenty-third
+I have an important meeting on the twenty-third of this month.
+thirtieth
+Their wedding anniversary is on the thirtieth of September.
+thirty-first
+The party will be held on the thirty-first of December.
+January
+January is the coldest month of the year in my country.
+February
+Valentine's Day is celebrated in February.
+March
+March is the perfect time to plant new flowers.
+April
+April showers bring May flowers.
+May
+We have a long holiday in May.
+June
+June marks the beginning of summer vacation.
+July
+July is often the hottest month of the year.
+August
+Many people travel during August to enjoy their holidays.
+September
+Schools reopen in September after summer vacation.
+October
+The leaves turn orange and yellow in October.
+November
+We often celebrate Thanksgiving in November.
+December
+December is full of festive celebrations and joy.

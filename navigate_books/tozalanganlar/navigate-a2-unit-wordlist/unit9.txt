@@ -1,0 +1,102 @@
+bake 
+Do you bake your own bread?
+beef 
+I’d like some beef, please.
+boil 
+I always boil my vegetables.
+bowl 
+Put all the ingredients into a bowl.
+bread 
+Not many people bake their own bread these days.
+castle 
+Can you see the castle from here?
+chicken 
+Could I have the grilled chicken?
+chop 
+Can you chop the onions with this knife, please?
+cube
+Can I have some beef cubes?
+delicious
+That looks delicious, but what is it?
+food processor
+Put everything in the food processor for one minute to make the soup.
+fork 
+There are knives and forks on the table.
+fruit 
+We both had fruit and yoghurt for breakfast this morning.
+fry 
+For breakfast, I often fry bacon, eggs and mushrooms.
+frying pan
+I have one frying pan and two saucepans.
+honey
+I have honey and yoghurt for breakfast.
+ingredient 
+Have you bought the ingredients for the meal?
+jam 
+Do you have any jam?
+kettle
+You boil water in a kettle to make tea.
+knife 
+You need a sharp knife to chop the onions.
+lemon 
+There are only 7 calories in a lemon.
+lemonade
+Can I have a bottle of lemonade?
+main course
+Could I have the grilled chicken for the main course?
+microwave
+The most important thing in my kitchen is the microwave.
+mix 
+Mix all the ingredients together.
+mushroom
+Do you have any mushrooms?
+noodles
+It comes with some noodles.
+olive
+I’d like some olives instead, please.
+oven 
+The oven is very hot.
+pasta
+We can have pasta any day.
+pear
+I’d like a pear.
+plate 
+I have a beautiful old set of plates and bowls for when people come for dinner.
+prepare 
+The average American family today spends just 7 minutes a day preparing meals.
+ready-made
+A lot of people buy ready-made meals.
+rice 
+We have some rice.
+roast
+To roast meat, you need a very hot oven.
+rooftop
+There are wonderful views of the city from the rooftop restaurant.
+salad 
+Can I have some salad with that as well, please?
+saucepan
+I’ve got three saucepans in my kitchen.
+secret 
+What is the secret to good health?
+spoon 
+Mix the water and flour together in a bowl with a spoon.
+starter
+Would you like a starter?
+survey 
+According to a survey, 49% of 18–24-year-olds don’t know how many minutes it takes to boil an egg!
+sweet 
+This jam is very sweet.
+sweetcorn
+Can I have some sweetcorn?
+takeaway food
+When we buy takeaway food, we don’t really think about what we’re eating.
+unhealthy
+That’s an unhealthy meal.
+vegetable 
+The chicken comes with vegetables or salad.
+view 
+There’s a nice view of the castle.
+wonderful 
+It has a wonderful menu.
+yoghurt
+I have yoghurt for breakfast.

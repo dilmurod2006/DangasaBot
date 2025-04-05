@@ -1,0 +1,2876 @@
+{
+    "navigate_b1": {
+        "unit1": [
+            {
+                "en": "aerobics",
+                "gap": "She does aerobics once or twice a week."
+            },
+            {
+                "en": "blog",
+                "gap": "Would you like to write a blog about your daily life?"
+            },
+            {
+                "en": "busy",
+                "gap": "My life is too busy."
+            },
+            {
+                "en": "camping",
+                "gap": "We usually go camping in the summer."
+            },
+            {
+                "en": "cards",
+                "gap": "Marta and Felix often play cards together."
+            },
+            {
+                "en": "chat",
+                "gap": "I like to chat with friends online."
+            },
+            {
+                "en": "chess",
+                "gap": "Mehmet plays chess once or twice a week."
+            },
+            {
+                "en": "cloudy",
+                "gap": "It’s very cloudy today."
+            },
+            {
+                "en": "coffee",
+                "gap": "We hardly ever go out for a coffee."
+            },
+            {
+                "en": "cold",
+                "gap": "The air’s cold this morning."
+            },
+            {
+                "en": "computer game",
+                "gap": "He nearly always plays computer games after school."
+            },
+            {
+                "en": "damp",
+                "gap": "Wear your raincoat. It’s another damp day today."
+            },
+            {
+                "en": "dream",
+                "gap": "Do you ever have a dream about flying?"
+            },
+            {
+                "en": "early",
+                "gap": "I’m going to have an early night."
+            },
+            {
+                "en": "equal",
+                "gap": "You should try to have an equal balance of all three."
+            },
+            {
+                "en": "exercise",
+                "gap": "You should do some exercise."
+            },
+            {
+                "en": "family",
+                "gap": "Do you spend a lot of time with your family?"
+            },
+            {
+                "en": "film",
+                "gap": "Have you ever made a film and posted it on YouTube?"
+            },
+            {
+                "en": "film",
+                "gap": "One of them stands next to the painting as the other one films her."
+            },
+            {
+                "en": "fun",
+                "gap": "I like to have fun."
+            },
+            {
+                "en": "golf",
+                "gap": "Do you play golf?"
+            },
+            {
+                "en": "gym",
+                "gap": "I sometimes go to the gym after work."
+            },
+            {
+                "en": "homework",
+                "gap": "Make sure you do your homework before supper."
+            },
+            {
+                "en": "hot",
+                "gap": "I love this hot weather."
+            },
+            {
+                "en": "housework",
+                "gap": "I’m going to do the housework after lunch."
+            },
+            {
+                "en": "humid",
+                "gap": "I hate this humid weather."
+            },
+            {
+                "en": "indoors",
+                "gap": "We sometimes play cards indoors."
+            },
+            {
+                "en": "karate",
+                "gap": "He does karate most days."
+            },
+            {
+                "en": "late",
+                "gap": "I try not to go to bed late during the week."
+            },
+            {
+                "en": "lie-in",
+                "gap": "Are you going to have a lie-in on Sunday?"
+            },
+            {
+                "en": "light",
+                "gap": "There is going to be some light snow this evening."
+            },
+            {
+                "en": "lightning",
+                "gap": "Did you see the lightning last night?"
+            },
+            {
+                "en": "look",
+                "gap": "We’ll have a look at it back at the hotel."
+            },
+            {
+                "en": "make a list",
+                "gap": "I always start the day by making a to-do list."
+            },
+            {
+                "en": "make plans",
+                "gap": "She is making plans for her future."
+            },
+            {
+                "en": "meal",
+                "gap": "We sometimes go out for a meal."
+            },
+            {
+                "en": "nasty",
+                "gap": "The water’s too warm and there are sea snakes and other nasty animals."
+            },
+            {
+                "en": "outdoors",
+                "gap": "They are always playing outdoors."
+            },
+            {
+                "en": "period",
+                "gap": "There are going to be some short periods of rain later."
+            },
+            {
+                "en": "photograph",
+                "gap": "I always look serious if someone takes a photograph of me."
+            },
+            {
+                "en": "pleasant",
+                "gap": "The weather is very pleasant."
+            },
+            {
+                "en": "pleasure",
+                "gap": "Can you say ‘no’ to immediate pleasures?"
+            },
+            {
+                "en": "post",
+                "gap": "We’ll post that on Facebook later."
+            },
+            {
+                "en": "promise",
+                "gap": "When I make a promise, I never change my mind."
+            },
+            {
+                "en": "psychologist",
+                "gap": "Professor Philip Zimbardo is a psychologist."
+            },
+            {
+                "en": "record",
+                "gap": "I always make a record of everything I spend in a day."
+            },
+            {
+                "en": "record",
+                "gap": "We can record the speech and post it on YouTube later."
+            },
+            {
+                "en": "relationship",
+                "gap": "They have a very good relationship with their parents."
+            },
+            {
+                "en": "relative",
+                "gap": "I love spending time with relatives."
+            },
+            {
+                "en": "reviewer",
+                "gap": "Here to tell us about the new book by Haruki Murakami is this week’s reviewer, Maria Georgiou."
+            },
+            {
+                "en": "running",
+                "gap": "Do you ever go running?"
+            },
+            {
+                "en": "shopping",
+                "gap": "I’m going to do the shopping this afternoon."
+            },
+            {
+                "en": "snowfall",
+                "gap": "In the late autumn we get our first snowfalls."
+            },
+            {
+                "en": "spend time",
+                "gap": "You should try and spend more time with relatives."
+            },
+            {
+                "en": "stay in",
+                "gap": "I’m going to stay in tonight."
+            },
+            {
+                "en": "swimming",
+                "gap": "We never go swimming."
+            },
+            {
+                "en": "text",
+                "gap": "Do you use special language when you write a text?"
+            },
+            {
+                "en": "time",
+                "gap": "Do you spend time with family during your holidays?"
+            },
+            {
+                "en": "to-do list",
+                "gap": "There’s so much to do. You should make a to-do list."
+            },
+            {
+                "en": "trip",
+                "gap": "Let’s go on a trip somewhere."
+            },
+            {
+                "en": "uncomfortable",
+                "gap": "This hot weather is uncomfortable."
+            },
+            {
+                "en": "walk",
+                "gap": "She rarely goes for a walk."
+            },
+            {
+                "en": "work",
+                "gap": "I must do some work this afternoon."
+            }
+        ],
+        "unit2": [
+            {
+                "en": "architect",
+                "gap": "Jim Thompson was an American architect who moved to Bangkok after the Second World War."
+            },
+            {
+                "en": "block",
+                "gap": "They block my way and don’t move even when I say politely, ‘Excuse me …’."
+            },
+            {
+                "en": "café",
+                "gap": "There’s a pavement café in the city centre."
+            },
+            {
+                "en": "candle",
+                "gap": "I love the candles in your bedroom."
+            },
+            {
+                "en": "CCTV camera",
+                "gap": "CCTV cameras check their speed."
+            },
+            {
+                "en": "chest of drawers",
+                "gap": "I’m surprised there isn’t a chest of drawers in the bedroom."
+            },
+            {
+                "en": "cloth",
+                "gap": "Please clean the kitchen with this cloth."
+            },
+            {
+                "en": "collect",
+                "gap": "They are developing a new way to collect rubbish."
+            },
+            {
+                "en": "crowded",
+                "gap": "The streets are crowded in the summer."
+            },
+            {
+                "en": "destroy",
+                "gap": "The new building work is going to destroy the old town."
+            },
+            {
+                "en": "dull",
+                "gap": "It’s quite dull in winter."
+            },
+            {
+                "en": "dustpan and brush",
+                "gap": "He’s cleaning the floor with a dustpan and brush."
+            },
+            {
+                "en": "duvet",
+                "gap": "The blue duvet on her bed is lovely."
+            },
+            {
+                "en": "fast lane",
+                "gap": "In a pedestrian fast lane, the maximum speed is  3mph."
+            },
+            {
+                "en": "fine",
+                "gap": "Police officers fine people not following the rules."
+            },
+            {
+                "en": "flower stall",
+                "gap": "There’s a flower stall in the town centre."
+            },
+            {
+                "en": "house swap",
+                "gap": "They are doing a house swap with a family in the United States."
+            },
+            {
+                "en": "household possessions",
+                "gap": "Huang Qingjun takes photos of people outside their homes with their household possessions."
+            },
+            {
+                "en": "house-sit",
+                "gap": "Felix is house-sitting for a friend."
+            },
+            {
+                "en": "industry",
+                "gap": "He is famous for rebuilding the Thai silk industry."
+            },
+            {
+                "en": "lively",
+                "gap": "The nightlife is lively."
+            },
+            {
+                "en": "location",
+                "gap": "He visited one location where a couple had to move house."
+            },
+            {
+                "en": "market place",
+                "gap": "I really like the market place in your town."
+            },
+            {
+                "en": "maze",
+                "gap": "This city’s like a maze."
+            },
+            {
+                "en": "microwave oven",
+                "gap": "I’m disappointed there’s only a microwave oven in the kitchen."
+            },
+            {
+                "en": "mirror",
+                "gap": "Did you see the mirror on the bedroom wall?"
+            },
+            {
+                "en": "narrow",
+                "gap": "Many Italian towns have small or narrow streets."
+            },
+            {
+                "en": "navigation",
+                "gap": "Dustcart is a friendly-looking robot with maps and GPS navigation."
+            },
+            {
+                "en": "on business",
+                "gap": "There are so many people who come here on business."
+            },
+            {
+                "en": "on holiday",
+                "gap": "I really don’t understand why they come here on holiday."
+            },
+            {
+                "en": "on public transport",
+                "gap": "Can you get to work or university on public transport?"
+            },
+            {
+                "en": "on the internet",
+                "gap": "You just look it up on the internet."
+            },
+            {
+                "en": "on the way",
+                "gap": "I was on the way to the city centre."
+            },
+            {
+                "en": "on time",
+                "gap": "Nobody’s ever on time for anything."
+            },
+            {
+                "en": "on TV",
+                "gap": "Do you prefer watching films on TV or at the cinema?"
+            },
+            {
+                "en": "pan",
+                "gap": "Use this pan to cook the pasta in."
+            },
+            {
+                "en": "parking space",
+                "gap": "It’s difficult to find a parking space."
+            },
+            {
+                "en": "pavement artist",
+                "gap": "In the summer you can see pavement artists on some of the streets."
+            },
+            {
+                "en": "pedestrian area",
+                "gap": "The pedestrian area is good for shopping."
+            },
+            {
+                "en": "play area",
+                "gap": "There’s a play area for the children."
+            },
+            {
+                "en": "project",
+                "gap": "He began this project in 2006."
+            },
+            {
+                "en": "publisher",
+                "gap": "I’m the writer, publisher and the salesman."
+            },
+            {
+                "en": "rage",
+                "gap": "He was so angry. I had never seen him in such a rage before."
+            },
+            {
+                "en": "recycle",
+                "gap": "These days, we recycle more and more of our rubbish."
+            },
+            {
+                "en": "robot",
+                "gap": "Dustcart is a street-cleaning robot."
+            },
+            {
+                "en": "rubbish",
+                "gap": "There’s a huge problem with rubbish in the city centre."
+            },
+            {
+                "en": "rug",
+                "gap": "I don’t like the white rugs in the sitting room."
+            },
+            {
+                "en": "safe",
+                "gap": "The city centre is safe at night."
+            },
+            {
+                "en": "satellite dish",
+                "gap": "The photo shows a satellite dish on the house."
+            },
+            {
+                "en": "sheet",
+                "gap": "All the beds have got clean sheets."
+            },
+            {
+                "en": "shop display",
+                "gap": "The people in front of me were walking slowly and taking photos of the shop displays."
+            },
+            {
+                "en": "shopper",
+                "gap": "There are so many shoppers on the streets."
+            },
+            {
+                "en": "solution",
+                "gap": "One solution to the problem is a pedestrian fast lane."
+            },
+            {
+                "en": "souvenir seller",
+                "gap": "There are lots of souvenir sellers in summer."
+            },
+            {
+                "en": "stall",
+                "gap": "The market has all kinds of stalls."
+            },
+            {
+                "en": "statue",
+                "gap": "It’s famous for its statue of a lion."
+            },
+            {
+                "en": "strange",
+                "gap": "Some people think that it’s a strange idea."
+            },
+            {
+                "en": "street cleaner",
+                "gap": "The street cleaners keep our city looking nice."
+            },
+            {
+                "en": "street performer",
+                "gap": "You can see street performers every weekend in our city."
+            },
+            {
+                "en": "student accommodation",
+                "gap": "Petra is staying in student accommodation this term."
+            },
+            {
+                "en": "tap",
+                "gap": "I can’t work the taps in the bathroom."
+            },
+            {
+                "en": "towel",
+                "gap": "The towels in the bathroom are lovely."
+            },
+            {
+                "en": "tower block",
+                "gap": "There are plans to build some tower blocks in the city centre."
+            },
+            {
+                "en": "truck",
+                "gap": "Rubbish trucks don’t find it easy to get around the narrow streets."
+            },
+            {
+                "en": "wardrobe",
+                "gap": "I’m surprised there isn’t a wardrobe for our clothes."
+            },
+            {
+                "en": "wash basin",
+                "gap": "The wash basin in the bathroom is very small."
+            }
+        ],
+        "unit3": [
+            {
+                "en": "achievement",
+                "gap": "Hello and welcome to Making History, the programme where we look back at human achievements that have changed history."
+            },
+            {
+                "en": "angrily",
+                "gap": "I look at them angrily."
+            },
+            {
+                "en": "angry",
+                "gap": "I get angry when people drop rubbish in the street."
+            },
+            {
+                "en": "anxious",
+                "gap": "I think she’s feeling anxious."
+            },
+            {
+                "en": "avoid",
+                "gap": "I try to avoid eye contact."
+            },
+            {
+                "en": "backwards",
+                "gap": "Scuba divers always dive backwards out of a boat."
+            },
+            {
+                "en": "balloon",
+                "gap": "A large balloon took him up into space."
+            },
+            {
+                "en": "behaviour",
+                "gap": "If you watch what people do in lifts, you’ll see some very interesting behaviour."
+            },
+            {
+                "en": "bother",
+                "gap": "It doesn’t bother me if they listen to loud music."
+            },
+            {
+                "en": "calmly",
+                "gap": "He calmly pushed the alarm button and waited for an answer."
+            },
+            {
+                "en": "capsule",
+                "gap": "He came slowly out of the capsule."
+            },
+            {
+                "en": "climb",
+                "gap": "I haven’t got my key. I know – I’ll climb in through that open window."
+            },
+            {
+                "en": "confused",
+                "gap": "I feel very confused. I don’t know what to do!"
+            },
+            {
+                "en": "cook",
+                "gap": "She’s a good cook."
+            },
+            {
+                "en": "dive",
+                "gap": "Watch him dive into the swimming pool."
+            },
+            {
+                "en": "drop",
+                "gap": "If you drop your phone into liquid, put it in a bowl of uncooked rice to dry it out."
+            },
+            {
+                "en": "easily",
+                "gap": "I can easily start a conversation with a stranger."
+            },
+            {
+                "en": "eater",
+                "gap": "She’s a slow eater."
+            },
+            {
+                "en": "embarrassed",
+                "gap": "I feel so embarrassed about it."
+            },
+            {
+                "en": "excited",
+                "gap": "I feel so excited about journey tomorrow."
+            },
+            {
+                "en": "exhausted",
+                "gap": "I feel exhausted most days."
+            },
+            {
+                "en": "eye contact",
+                "gap": "She’s very shy and never makes eye contact."
+            },
+            {
+                "en": "fall",
+                "gap": "Watch out! I think that tree is going to fall."
+            },
+            {
+                "en": "fluently",
+                "gap": "I would like to speak two languages fluently."
+            },
+            {
+                "en": "forwards",
+                "gap": "She was running too fast and fell forwards."
+            },
+            {
+                "en": "frightened",
+                "gap": "The building was empty. Now he was frightened."
+            },
+            {
+                "en": "guilty",
+                "gap": "I think he’s feeling guilty about not going to the party."
+            },
+            {
+                "en": "headphones",
+                "gap": "Put your headphones on to listen to your music."
+            },
+            {
+                "en": "in a good mood",
+                "gap": "She’s in a good mood."
+            },
+            {
+                "en": "intercom",
+                "gap": "A voice on the intercom asked, ‘Is someone in there?’"
+            },
+            {
+                "en": "into",
+                "gap": "They ran into the garden."
+            },
+            {
+                "en": "jump",
+                "gap": "Everybody shouted and jumped up and down."
+            },
+            {
+                "en": "land",
+                "gap": "He landed safely."
+            },
+            {
+                "en": "lift",
+                "gap": "Can you help me lift the new TV out of its box?"
+            },
+            {
+                "en": "lift",
+                "gap": "He was stuck in a lift for  hours!"
+            },
+            {
+                "en": "loudly",
+                "gap": "I hate it when people speak loudly on their mobile phones."
+            },
+            {
+                "en": "nervous",
+                "gap": "I feel nervous about the exam."
+            },
+            {
+                "en": "nicely",
+                "gap": "I ask them nicely to turn it down."
+            },
+            {
+                "en": "nightmare",
+                "gap": "I had a terrible nightmare last night."
+            },
+            {
+                "en": "out of",
+                "gap": "He came out of the capsule."
+            },
+            {
+                "en": "over",
+                "gap": "He slowly walked over to the capsule."
+            },
+            {
+                "en": "parachute",
+                "gap": "He parachuted down towards the desert."
+            },
+            {
+                "en": "pleased",
+                "gap": "She’s really pleased the party was a success."
+            },
+            {
+                "en": "politely",
+                "gap": "I smile politely."
+            },
+            {
+                "en": "pull out",
+                "gap": "Then he pulled the button out, so that the alarm rang and rang continuously."
+            },
+            {
+                "en": "quickly",
+                "gap": "He quickly moved to another seat."
+            },
+            {
+                "en": "reader",
+                "gap": "He’s a slow reader."
+            },
+            {
+                "en": "rescue team",
+                "gap": "A rescue team arrived a short time later to take her to hospital."
+            },
+            {
+                "en": "round and round",
+                "gap": "He suddenly began to turn round and round."
+            },
+            {
+                "en": "runner",
+                "gap": "She’s a really fast runner."
+            },
+            {
+                "en": "skydiving",
+                "gap": "The rest of his skydiving team saw this on their computer screens and were worried he was in terrible trouble."
+            },
+            {
+                "en": "smartly",
+                "gap": "In my job I need to dress smartly."
+            },
+            {
+                "en": "snowboarding",
+                "gap": "A group of us went snowboarding in Switzerland."
+            },
+            {
+                "en": "stranger",
+                "gap": "When you sit next to a stranger on a bus or train, what do you do?"
+            },
+            {
+                "en": "straw",
+                "gap": "It was one of those little cartons of juice that comes with a little straw."
+            },
+            {
+                "en": "stressed",
+                "gap": "He’s feeling stressed about the new project."
+            },
+            {
+                "en": "take off",
+                "gap": "Come and watch the plane take off."
+            },
+            {
+                "en": "through",
+                "gap": "She walked through the open door."
+            },
+            {
+                "en": "towards",
+                "gap": "Look! Martha is walking towards us."
+            },
+            {
+                "en": "traffic lights",
+                "gap": "Come on traffic lights, turn green. I’m going to be so late for my meeting!"
+            },
+            {
+                "en": "traveller",
+                "gap": "I’m a regular traveller."
+            },
+            {
+                "en": "typist",
+                "gap": "She’s a quick typist."
+            },
+            {
+                "en": "video camera",
+                "gap": "He hit the walls several times and shouted at the video camera."
+            },
+            {
+                "en": "walker",
+                "gap": "He’s a fast walker."
+            }
+        ],
+        "unit4": [
+            {
+                "en": "about",
+                "gap": "I think she’s about thirty-five."
+            },
+            {
+                "en": "arrive",
+                "gap": "She arrived home very late."
+            },
+            {
+                "en": "attack",
+                "gap": "As he was leaving a concert, two men attacked him."
+            },
+            {
+                "en": "become",
+                "gap": "He became anxious the more he thought about it."
+            },
+            {
+                "en": "blog",
+                "gap": "She blogs about daily life with two young children."
+            },
+            {
+                "en": "boxer",
+                "gap": "He decided to become the manager of a boxer from Brazil."
+            },
+            {
+                "en": "buy",
+                "gap": "I want to buy a new T-shirt."
+            },
+            {
+                "en": "challenge",
+                "gap": "He did the challenges for a few months."
+            },
+            {
+                "en": "change career",
+                "gap": "I want to change career."
+            },
+            {
+                "en": "choose",
+                "gap": "I need to choose a career, but I don’t know what to do."
+            },
+            {
+                "en": "concert hall",
+                "gap": "He has played in many of the world’s greatest concert halls."
+            },
+            {
+                "en": "conductor",
+                "gap": "João Carlos Martins is a famous Brazilian classical pianist and conductor."
+            },
+            {
+                "en": "deal with",
+                "gap": "I need to deal with these emails."
+            },
+            {
+                "en": "do online banking",
+                "gap": "How often do you do online banking?"
+            },
+            {
+                "en": "download",
+                "gap": "You can download this app for free."
+            },
+            {
+                "en": "engaged",
+                "gap": "When did you get engaged?"
+            },
+            {
+                "en": "get married",
+                "gap": "We’re getting married this year."
+            },
+            {
+                "en": "go online",
+                "gap": "Why don’t you go online to book the hotel?"
+            },
+            {
+                "en": "go to",
+                "gap": "She wants to go to university."
+            },
+            {
+                "en": "have a baby",
+                "gap": "We want to have children."
+            },
+            {
+                "en": "in your late twenties",
+                "gap": "I think he’s in his late twenties."
+            },
+            {
+                "en": "in your sixties",
+                "gap": "A lot of people retire in their sixties."
+            },
+            {
+                "en": "learn to swim",
+                "gap": "I want to learn to swim."
+            },
+            {
+                "en": "leave home",
+                "gap": "She decided to leave home."
+            },
+            {
+                "en": "live with",
+                "gap": "Do you live with your partner?"
+            },
+            {
+                "en": "log on",
+                "gap": "Make sure you log out when you have finished."
+            },
+            {
+                "en": "mid",
+                "gap": "She’s in her mid-twenties."
+            },
+            {
+                "en": "middle-aged",
+                "gap": "They’re a middle-aged couple, with grown-up children."
+            },
+            {
+                "en": "moment",
+                "gap": "It was the most amazing moment of his life."
+            },
+            {
+                "en": "move house or flat",
+                "gap": "Martha moved house last week."
+            },
+            {
+                "en": "obtain",
+                "gap": "Where did you obtain that from?"
+            },
+            {
+                "en": "pass your exams",
+                "gap": "Did you pass all your exams?"
+            },
+            {
+                "en": "perform",
+                "gap": "He learned to play the piano when he was a child and as a teenager he performed in concerts around the world."
+            },
+            {
+                "en": "pianist",
+                "gap": "He wanted to follow his dream of being a pianist."
+            },
+            {
+                "en": "present",
+                "gap": "Did you get a lot of presents for your birthday?"
+            },
+            {
+                "en": "read",
+                "gap": "I want to listen to the news."
+            },
+            {
+                "en": "receive",
+                "gap": "I received a present today."
+            },
+            {
+                "en": "repetitive strain injury RSI",
+                "gap": "He performed in concerts for another seven years, but then he had to give up because of Repetitive Strain Injury RSI."
+            },
+            {
+                "en": "retire",
+                "gap": "He’s going to retire from teaching next year."
+            },
+            {
+                "en": "review",
+                "gap": "The hotel gets some great reviews."
+            },
+            {
+                "en": "seafront",
+                "gap": "The restaurant is on the seafront."
+            },
+            {
+                "en": "share",
+                "gap": "I share a small flat with friends."
+            },
+            {
+                "en": "shop online",
+                "gap": "I like to shop online."
+            },
+            {
+                "en": "social media",
+                "gap": "I use social media all the time, especially Facebook."
+            },
+            {
+                "en": "take up",
+                "gap": "I want to take up a new hobby."
+            },
+            {
+                "en": "talk",
+                "gap": "Matt gave an online talk about how the challenges changed his life."
+            },
+            {
+                "en": "teenager",
+                "gap": "This TV programme is for teenagers and young adults."
+            },
+            {
+                "en": "travel",
+                "gap": "We’re going to travel by taxi to the airport."
+            },
+            {
+                "en": "tweet",
+                "gap": "He tweeted that he was going to meet a famous musician."
+            },
+            {
+                "en": "update",
+                "gap": "Did you update your Facebook page?"
+            },
+            {
+                "en": "use",
+                "gap": "A few years later, he lost the use of his left hand."
+            },
+            {
+                "en": "vase",
+                "gap": "I’m very sorry I broke your vase."
+            },
+            {
+                "en": "vegetarian cookbook",
+                "gap": "We’re going to get a vegetarian cookbook to help us."
+            }
+        ],
+        "unit5": [
+            {
+                "en": "advice",
+                "gap": "It also included advice for teachers about how to teach music and mathematics."
+            },
+            {
+                "en": "afford",
+                "gap": "What would you like to buy, but can’t afford right now?"
+            },
+            {
+                "en": "antique",
+                "gap": "It’s antique and gold."
+            },
+            {
+                "en": "balance",
+                "gap": "I check my balance regularly so I know how much money there is in my bank account."
+            },
+            {
+                "en": "bank account",
+                "gap": "Do you know how much money is in your bank account?"
+            },
+            {
+                "en": "benefit",
+                "gap": "Do you think living in a cashless society offers enough benefits?"
+            },
+            {
+                "en": "bill",
+                "gap": "Ask the waiter for the bill."
+            },
+            {
+                "en": "borrowed",
+                "gap": "Have you ever borrowed a large amount of money?"
+            },
+            {
+                "en": "brand new",
+                "gap": "It’s brand new. I only got it a few weeks ago."
+            },
+            {
+                "en": "bright",
+                "gap": "It’s a lovely bright colour."
+            },
+            {
+                "en": "buyer",
+                "gap": "We’ll get a buyer for it."
+            },
+            {
+                "en": "change",
+                "gap": "I’ve got some change and lots of receipts in my wallet."
+            },
+            {
+                "en": "coin",
+                "gap": "We can give some coins to the street performers."
+            },
+            {
+                "en": "collection",
+                "gap": "As a result, our book collection went from 300 down to six."
+            },
+            {
+                "en": "comfort",
+                "gap": "I prefer to watch films in the comfort of my own home."
+            },
+            {
+                "en": "comfort",
+                "gap": "She went to the nursery to comfort the baby."
+            },
+            {
+                "en": "comfortable",
+                "gap": "It’s very comfortable to ride."
+            },
+            {
+                "en": "compute",
+                "gap": "We need to compute the size and weight of each object."
+            },
+            {
+                "en": "condition",
+                "gap": "It’s not in very good condition."
+            },
+            {
+                "en": "credit card",
+                "gap": "Can I pay for this by credit card, please?"
+            },
+            {
+                "en": "crime",
+                "gap": "Things have improved, for instance there isn’t as much crime in Sweden."
+            },
+            {
+                "en": "dark",
+                "gap": "It’s got a dark blue stone."
+            },
+            {
+                "en": "debt",
+                "gap": "I don’t like being in debt."
+            },
+            {
+                "en": "decide",
+                "gap": "She has to decide by next Monday."
+            },
+            {
+                "en": "developing world",
+                "gap": "Many countries in the developing world are using mobile phones to do online banking."
+            },
+            {
+                "en": "digit",
+                "gap": "How many digits are there in your account number?"
+            },
+            {
+                "en": "digital",
+                "gap": "Modern digital technology has helped. We gave away our CDs and now keep our music on the computer."
+            },
+            {
+                "en": "disappointment",
+                "gap": "Have you bought anything recently which was a disappointment?"
+            },
+            {
+                "en": "economy",
+                "gap": "I think life is better since the decrease in the cash economy."
+            },
+            {
+                "en": "enjoy",
+                "gap": "Did you enjoy your holiday?"
+            },
+            {
+                "en": "enjoyable",
+                "gap": "Some people think our life isn’t enjoyable any more."
+            },
+            {
+                "en": "equip",
+                "gap": "This course will equip you with the skills you need."
+            },
+            {
+                "en": "essential",
+                "gap": "It’s essential you save some money."
+            },
+            {
+                "en": "fashionable",
+                "gap": "It is quite fashionable."
+            },
+            {
+                "en": "fee",
+                "gap": "In Kenya, people can use credit on their mobile phones to pay for things like their children’s school fees."
+            },
+            {
+                "en": "heavy",
+                "gap": "This box is really heavy."
+            },
+            {
+                "en": "large",
+                "gap": "This is difficult to carry – it’s quite large."
+            },
+            {
+                "en": "leather",
+                "gap": "This seat’s made of leather."
+            },
+            {
+                "en": "lent",
+                "gap": "Have you lent money to someone in the last month?"
+            },
+            {
+                "en": "metal",
+                "gap": "It’s made of metal."
+            },
+            {
+                "en": "minimalist",
+                "gap": "Our flat was full of stuff, so we went minimalist: we sold or gave away the things which we hardly ever use."
+            },
+            {
+                "en": "mosquito",
+                "gap": "It’s a very bad time of year for mosquitoes."
+            },
+            {
+                "en": "note",
+                "gap": "I’ve got one or two notes in my wallet."
+            },
+            {
+                "en": "owe",
+                "gap": "She owes me £0!"
+            },
+            {
+                "en": "pale",
+                "gap": "It’s a kind of pale grey colour."
+            },
+            {
+                "en": "pay back",
+                "gap": "I’ll pay you back the money tomorrow."
+            },
+            {
+                "en": "personal",
+                "gap": "It contains personal things."
+            },
+            {
+                "en": "plastic",
+                "gap": "It’s got a plastic cover."
+            },
+            {
+                "en": "possess",
+                "gap": "I don’t possess a single CD or DVD."
+            },
+            {
+                "en": "possessions",
+                "gap": "Do you think possessions can make you feel happy?"
+            },
+            {
+                "en": "purse",
+                "gap": "I think I’ve got some money in my purse."
+            },
+            {
+                "en": "refund",
+                "gap": "I’d like to return the wallet and get a refund."
+            },
+            {
+                "en": "rent",
+                "gap": "How much is the rent for your flat?"
+            },
+            {
+                "en": "repellent",
+                "gap": "I always pack a mosquito-repellent plug."
+            },
+            {
+                "en": "revolution",
+                "gap": "Kenya has led a revolution in mobile banking."
+            },
+            {
+                "en": "save up",
+                "gap": "I’m saving up for a new car."
+            },
+            {
+                "en": "scooter",
+                "gap": "Riding my scooter is great fun and the feel of the cool wind is wonderful."
+            },
+            {
+                "en": "shiny",
+                "gap": "It’s so bright and shiny."
+            },
+            {
+                "en": "special",
+                "gap": "Somebody special gave it to me."
+            },
+            {
+                "en": "statistic",
+                "gap": "Statistics show that the number of bank robberies has dropped."
+            },
+            {
+                "en": "stress",
+                "gap": "He’s under a lot of stress at the moment at work."
+            },
+            {
+                "en": "stress",
+                "gap": "I must stress how important it is to be careful with your money."
+            },
+            {
+                "en": "stressful",
+                "gap": "Sometimes having too many things can be stressful."
+            },
+            {
+                "en": "suitable",
+                "gap": "It isn’t suitable for work."
+            },
+            {
+                "en": "thin",
+                "gap": "It’s very thin and light, so it’s easy to carry."
+            },
+            {
+                "en": "time capsule",
+                "gap": "A time capsule is a special container with objects inside."
+            },
+            {
+                "en": "transfer",
+                "gap": "Mobile phones are perfect for transferring money."
+            },
+            {
+                "en": "useful",
+                "gap": "It’s so useful that I can’t imagine life without it."
+            },
+            {
+                "en": "valuable",
+                "gap": "This watch isn’t very valuable."
+            },
+            {
+                "en": "wallet",
+                "gap": "What’s in your wallet at the moment?"
+            }
+        ],
+        "unit6": [
+            {
+                "en": "adopt",
+                "gap": "They have decided to adopt a child."
+            },
+            {
+                "en": "bad manners",
+                "gap": "I’ve heard that in other countries it’s bad manners to talk when another person is speaking."
+            },
+            {
+                "en": "best-selling",
+                "gap": "Susan Cain is the author of the best-selling book Quiet."
+            },
+            {
+                "en": "characteristic",
+                "gap": "What do you think are the main characteristics of introverts?"
+            },
+            {
+                "en": "confident",
+                "gap": "She’s confident about her exams."
+            },
+            {
+                "en": "couple",
+                "gap": "Nicole and Paul make a lovely couple."
+            },
+            {
+                "en": "creative",
+                "gap": "He’s quite creative and often has new ideas."
+            },
+            {
+                "en": "dishonest",
+                "gap": "It was dishonest of him to say that."
+            },
+            {
+                "en": "disorganized",
+                "gap": "His manager is a bit disorganized. His office is a mess."
+            },
+            {
+                "en": "extrovert",
+                "gap": "She’s an extrovert and confident in a large group of people."
+            },
+            {
+                "en": "fair",
+                "gap": "Do you think it was fair of her to say that?"
+            },
+            {
+                "en": "father-in-law",
+                "gap": "My father-in-law enjoys gardening."
+            },
+            {
+                "en": "flatmate",
+                "gap": "My flatmate is quite lazy. He never does the washing up."
+            },
+            {
+                "en": "friendly",
+                "gap": "He’s a very friendly person."
+            },
+            {
+                "en": "get divorced",
+                "gap": "You get divorced only if your marriage goes wrong."
+            },
+            {
+                "en": "hard-working",
+                "gap": "She’s a very hard-working person and works long hours."
+            },
+            {
+                "en": "honest",
+                "gap": "Mia’s an honest person – she always tells the truth."
+            },
+            {
+                "en": "impatient",
+                "gap": "She’s a bit impatient. She doesn’t like waiting for things."
+            },
+            {
+                "en": "impolite",
+                "gap": "I think it’s a bit impolite to say that."
+            },
+            {
+                "en": "impossible",
+                "gap": "It was impossible to sleep because it was so hot."
+            },
+            {
+                "en": "introvert",
+                "gap": "I’m an introvert. I find it easier to express myself in writing than speaking."
+            },
+            {
+                "en": "mother-in-law",
+                "gap": "Your mother-in-law is your husband or wife’s mother."
+            },
+            {
+                "en": "necessary",
+                "gap": "Was it necessary to speak to me like that?"
+            },
+            {
+                "en": "patient",
+                "gap": "I’m patient and don’t mind if things take a long time."
+            },
+            {
+                "en": "possible",
+                "gap": "It’s possible she will arrive shortly."
+            },
+            {
+                "en": "related",
+                "gap": "Did you know that Pascal and Isabelle are related to each other?"
+            },
+            {
+                "en": "romantic",
+                "gap": "They are in a romantic relationship."
+            },
+            {
+                "en": "separate",
+                "gap": "My parents separated when I was eight."
+            },
+            {
+                "en": "shy",
+                "gap": "He’s quite a shy person and is often nervous about speaking to people."
+            },
+            {
+                "en": "slurp",
+                "gap": "It sounds like a competition to see who can slurp the loudest."
+            },
+            {
+                "en": "smart",
+                "gap": "He’s really smart. He knows everything about computers."
+            },
+            {
+                "en": "sociable",
+                "gap": "They’re very sociable people and enjoy having parties."
+            },
+            {
+                "en": "stepmother",
+                "gap": "My father married my stepmother when I was  years old."
+            },
+            {
+                "en": "stupid",
+                "gap": "I think he was really stupid to leave his job."
+            },
+            {
+                "en": "twins",
+                "gap": "My sister gave birth to twins yesterday. A boy and a girl!"
+            },
+            {
+                "en": "unfair",
+                "gap": "I think it’s unfair that not everyone was invited to the party."
+            },
+            {
+                "en": "unfriendly",
+                "gap": "I think she’s a bit unfriendly."
+            },
+            {
+                "en": "unkind",
+                "gap": "It was a bit unkind of him to do that."
+            },
+            {
+                "en": "unlucky",
+                "gap": "We’ve been so unlucky with the weather."
+            },
+            {
+                "en": "unnecessary",
+                "gap": "That’s a bit unnecessary. There was no need to say that."
+            },
+            {
+                "en": "unpleasant",
+                "gap": "I find the smell of peanut butter a bit unpleasant."
+            },
+            {
+                "en": "unsociable",
+                "gap": "He hates going out and is quite unsociable."
+            },
+            {
+                "en": "untidy",
+                "gap": "The children are so untidy. Look at their bedroom!"
+            },
+            {
+                "en": "usual",
+                "gap": "The journey to university took longer than usual."
+            },
+            {
+                "en": "workplace",
+                "gap": "In the USA especially, many schools, universities and workplaces are less interested in introverts than in extroverts."
+            }
+        ],
+        "unit7": [
+            {
+                "en": "accommodation",
+                "gap": "What type of holiday accommodation do you prefer?"
+            },
+            {
+                "en": "advantages",
+                "gap": "As well as speed, Maglev has a number of advantages over other transport systems."
+            },
+            {
+                "en": "amazed",
+                "gap": "I was amazed when my dog turned up at my house after six months away."
+            },
+            {
+                "en": "annoyed",
+                "gap": "Martha’s annoyed because you didn’t invite her."
+            },
+            {
+                "en": "annoying",
+                "gap": "That noise is so annoying. I can’t concentrate."
+            },
+            {
+                "en": "apply",
+                "gap": "Do I need to apply for a visa before I travel?"
+            },
+            {
+                "en": "basic",
+                "gap": "It’s basic but you have everything you need."
+            },
+            {
+                "en": "book in advance",
+                "gap": "Train fares are much cheaper if you book in advance."
+            },
+            {
+                "en": "book your flight",
+                "gap": "Have you booked your flight to Spain yet?"
+            },
+            {
+                "en": "bored",
+                "gap": "The lessons are always the same, so the students get rather bored."
+            },
+            {
+                "en": "bus pass",
+                "gap": "I have a bus pass."
+            },
+            {
+                "en": "code",
+                "gap": "Will I need a code?"
+            },
+            {
+                "en": "confusing",
+                "gap": "Her directions to the town were a bit confusing."
+            },
+            {
+                "en": "convenient",
+                "gap": "The bus is the most convenient form of transport for me."
+            },
+            {
+                "en": "currency",
+                "gap": "Did you get the foreign currency for our trip?"
+            },
+            {
+                "en": "cycle lane",
+                "gap": "The main roads have special cycle lanes."
+            },
+            {
+                "en": "development",
+                "gap": "The technology is still in development."
+            },
+            {
+                "en": "diesel",
+                "gap": "Diesel engines are greener these days."
+            },
+            {
+                "en": "efficient",
+                "gap": "The bus service is efficient."
+            },
+            {
+                "en": "embarrassing",
+                "gap": "That was the most embarrassing moment of my life."
+            },
+            {
+                "en": "exciting",
+                "gap": "It was a really exciting film."
+            },
+            {
+                "en": "fare",
+                "gap": "Bus fares are expensive."
+            },
+            {
+                "en": "fascinated",
+                "gap": "I was fascinated to hear my uncle’s stories."
+            },
+            {
+                "en": "fascinating",
+                "gap": "I watched a fascinating programme last night."
+            },
+            {
+                "en": "float",
+                "gap": "The train floats in the air above the tracks."
+            },
+            {
+                "en": "foreign",
+                "gap": "How much foreign currency are you taking on holiday?"
+            },
+            {
+                "en": "frightening",
+                "gap": "My whole body is in pain. It’s frightening."
+            },
+            {
+                "en": "fuel",
+                "gap": "They use less fuel than other vehicles."
+            },
+            {
+                "en": "greener",
+                "gap": "Buses are greener than in the past."
+            },
+            {
+                "en": "guidebook",
+                "gap": "Do you usually take a guidebook on holiday?"
+            },
+            {
+                "en": "high-speed",
+                "gap": "Right now there is only one high-speed Maglev system in the world."
+            },
+            {
+                "en": "hire",
+                "gap": "How much will it cost to hire a car for a week?"
+            },
+            {
+                "en": "hostel",
+                "gap": "All the hostels were full so someone suggested staying in this Manga café."
+            },
+            {
+                "en": "in advance",
+                "gap": "Do you book your holidays far in advance?"
+            },
+            {
+                "en": "insurance",
+                "gap": "We need to buy our travel insurance before we go on holiday."
+            },
+            {
+                "en": "last minute",
+                "gap": "I’m a last-minute person and never book my holidays in advance."
+            },
+            {
+                "en": "line",
+                "gap": "In 2045, the line will extend to Osaka."
+            },
+            {
+                "en": "luggage",
+                "gap": "Where can we leave our luggage?"
+            },
+            {
+                "en": "main road",
+                "gap": "The main roads are very busy in our town."
+            },
+            {
+                "en": "petrol",
+                "gap": "Does your car run on petrol?"
+            },
+            {
+                "en": "planner",
+                "gap": "Transport planners are looking at the problems."
+            },
+            {
+                "en": "pollution",
+                "gap": "Buses are quieter and create less pollution these days."
+            },
+            {
+                "en": "predict",
+                "gap": "They predict that the Tokyo to Osaka line will cost  billion dollars."
+            },
+            {
+                "en": "reality",
+                "gap": "Their dreams are now a reality."
+            },
+            {
+                "en": "registration form",
+                "gap": "Could you fill in the registration form, please?"
+            },
+            {
+                "en": "regular",
+                "gap": "There’s a regular bus service between the two towns."
+            },
+            {
+                "en": "relaxed",
+                "gap": "The atmosphere in my company is relaxed."
+            },
+            {
+                "en": "relaxing",
+                "gap": "It was very relaxing to lie next to the swimming pool and have a drink."
+            },
+            {
+                "en": "reliable",
+                "gap": "The trains are very reliable – they usually leave on time."
+            },
+            {
+                "en": "remote",
+                "gap": "Yakutsk is remote – it’s six time zones from Moscow."
+            },
+            {
+                "en": "replace",
+                "gap": "Maglev technology probably won’t replace other forms of transport in the near future."
+            },
+            {
+                "en": "self-catering",
+                "gap": "I prefer self-catering holidays."
+            },
+            {
+                "en": "souvenir",
+                "gap": "I always buy souvenirs when I’m on holiday."
+            },
+            {
+                "en": "surprised",
+                "gap": "I was surprised when she told us she was engaged to be married."
+            },
+            {
+                "en": "surprising",
+                "gap": "It wasn’t surprising that we lost the match."
+            },
+            {
+                "en": "thermometer",
+                "gap": "Kids here can only miss school if the thermometer reaches 35–!"
+            },
+            {
+                "en": "tiring",
+                "gap": "This train journey is tiring."
+            },
+            {
+                "en": "track",
+                "gap": "Powerful magnets lift the train off the tracks and push them forward."
+            },
+            {
+                "en": "traffic jam",
+                "gap": "There are often bad traffic jams on the motorways."
+            },
+            {
+                "en": "worried",
+                "gap": "I’m really worried about the exam tomorrow."
+            },
+            {
+                "en": "worrying",
+                "gap": "The increase in prices is very worrying."
+            }
+        ],
+        "unit8": [
+            {
+                "en": "achieve",
+                "gap": "In the last few years, Finland and Shanghai have achieved the highest grades in the tests."
+            },
+            {
+                "en": "after-school",
+                "gap": "What after-school activities do you do?"
+            },
+            {
+                "en": "art",
+                "gap": "Did you do art at school?"
+            },
+            {
+                "en": "atmosphere",
+                "gap": "The atmosphere is relaxed."
+            },
+            {
+                "en": "blossom",
+                "gap": "I really like the word ‘blossom’, because I think it sounds as gentle as the thing it represents."
+            },
+            {
+                "en": "communication skills",
+                "gap": "I have very good communication skills."
+            },
+            {
+                "en": "connection",
+                "gap": "It’s a really bad connection. Could you repeat that, please?"
+            },
+            {
+                "en": "course",
+                "gap": "Is she going to do a course in psychology at university?"
+            },
+            {
+                "en": "creatively",
+                "gap": "Will computers ever be able to think creatively, like humans?"
+            },
+            {
+                "en": "decision",
+                "gap": "Are you good at making decisions?"
+            },
+            {
+                "en": "degree",
+                "gap": "She’s got a degree in history from York University."
+            },
+            {
+                "en": "diploma",
+                "gap": "I have a diploma in food safety."
+            },
+            {
+                "en": "economics",
+                "gap": "We studied economics for two years. It’s a hard subject."
+            },
+            {
+                "en": "education",
+                "gap": "I think private schools offer the best education."
+            },
+            {
+                "en": "emotion",
+                "gap": "Scientists might even be able to learn more about where our thoughts and emotions come from."
+            },
+            {
+                "en": "entrance exam",
+                "gap": "In Shanghai, the university entrance exam is called the goo koo."
+            },
+            {
+                "en": "explain",
+                "gap": "I don’t think he’s very good at explaining things clearly."
+            },
+            {
+                "en": "fields",
+                "gap": "Please complete all required fields below."
+            },
+            {
+                "en": "fully-qualified",
+                "gap": "We’re offering proper training with fully-qualified instructors."
+            },
+            {
+                "en": "grade",
+                "gap": "My grades in literature and languages weren’t great."
+            },
+            {
+                "en": "history",
+                "gap": "My favourite subject was history."
+            },
+            {
+                "en": "imagination",
+                "gap": "She uses her imagination to come up with some great ideas."
+            },
+            {
+                "en": "ironing",
+                "gap": "Who usually does the ironing?"
+            },
+            {
+                "en": "IT",
+                "gap": "I’m pleased I did IT at school. I love working with computers."
+            },
+            {
+                "en": "languages",
+                "gap": "I was really good at languages at school. I speak three languages now."
+            },
+            {
+                "en": "learning skills",
+                "gap": "His learning skills are very good. I think he’s the best in the class."
+            },
+            {
+                "en": "literature",
+                "gap": "Did you study literature at school?"
+            },
+            {
+                "en": "map reading",
+                "gap": "I’ll drive, but are you any good at map reading?"
+            },
+            {
+                "en": "Master’s degree",
+                "gap": "He’s got a Master’s degree in economics."
+            },
+            {
+                "en": "maths",
+                "gap": "When I was at school I didn’t enjoy maths at all."
+            },
+            {
+                "en": "mistake",
+                "gap": "Have you ever made a big mistake?"
+            },
+            {
+                "en": "myth",
+                "gap": "This is one of the most common myths about the brain."
+            },
+            {
+                "en": "next of kin",
+                "gap": "Who’s your next of kin?"
+            },
+            {
+                "en": "organ",
+                "gap": "The brain is an amazing organ."
+            },
+            {
+                "en": "organize",
+                "gap": "She loves organizing events."
+            },
+            {
+                "en": "PE",
+                "gap": "I really enjoyed PE at school, especially tennis lessons."
+            },
+            {
+                "en": "photocopy",
+                "gap": "I’ll just make a photocopy of the certificate for you."
+            },
+            {
+                "en": "practical skills",
+                "gap": "Her practical skills are excellent, so I think she is the right person for the job."
+            },
+            {
+                "en": "private school",
+                "gap": "Did you go to a private school?"
+            },
+            {
+                "en": "probably",
+                "gap": "I probably won’t go out tonight."
+            },
+            {
+                "en": "promotion",
+                "gap": "Please send me details of offers and promotions."
+            },
+            {
+                "en": "psychology",
+                "gap": "My brother’s doing an MSc in psychology."
+            },
+            {
+                "en": "qualification",
+                "gap": "What qualifications do you have?"
+            },
+            {
+                "en": "remember",
+                "gap": "Are you good at remembering people’s names?"
+            },
+            {
+                "en": "science",
+                "gap": "I think science was the least useful subject for me at school."
+            },
+            {
+                "en": "search engine",
+                "gap": "Did you use a search engine to find out about us?"
+            },
+            {
+                "en": "signal",
+                "gap": "I keep losing the signal so we might get cut off."
+            },
+            {
+                "en": "solve",
+                "gap": "He’s great at solving computer problems."
+            },
+            {
+                "en": "spelling",
+                "gap": "He’s not very good at spelling."
+            },
+            {
+                "en": "state school",
+                "gap": "I think state schools are just as good as private schools."
+            },
+            {
+                "en": "strict",
+                "gap": "Was your school strict?"
+            },
+            {
+                "en": "study",
+                "gap": "An international study called PISA tests 00,000 students from over 60 countries in maths, science and reading."
+            },
+            {
+                "en": "success",
+                "gap": "Do you think a university degree is necessary for success in life?"
+            },
+            {
+                "en": "system",
+                "gap": "What is it about their education system that produces these great results?"
+            },
+            {
+                "en": "take care of",
+                "gap": "She really enjoys taking care of people."
+            },
+            {
+                "en": "tell jokes",
+                "gap": "Are you good at telling jokes?"
+            },
+            {
+                "en": "terrible",
+                "gap": "I’m terrible at remembering people’s names."
+            },
+            {
+                "en": "train",
+                "gap": "I trained as a chef."
+            },
+            {
+                "en": "understand",
+                "gap": "She’s very good at understanding how things work."
+            }
+        ],
+        "unit9": [
+            {
+                "en": "active",
+                "gap": "She has a very active lifestyle."
+            },
+            {
+                "en": "already",
+                "gap": "I do quite a bit of exercise already, so I’m pretty fit."
+            },
+            {
+                "en": "argument",
+                "gap": "Sometimes, people shake hands when they make friends again after an argument."
+            },
+            {
+                "en": "assignment",
+                "gap": "Please can I have some more time to do my assignment?"
+            },
+            {
+                "en": "believe in",
+                "gap": "I don’t believe in the health benefits of taking exercise."
+            },
+            {
+                "en": "belong to",
+                "gap": "You must always look after things that belong to other people."
+            },
+            {
+                "en": "bump",
+                "gap": "They bump fists as a greeting."
+            },
+            {
+                "en": "cancer",
+                "gap": "Diseases, such as cancer, exist today because of our modern diet and lifestyle."
+            },
+            {
+                "en": "ceremony",
+                "gap": "The graduation ceremony starts at 9 a.m."
+            },
+            {
+                "en": "cheek",
+                "gap": "They kiss two or three times, starting with the right cheek."
+            },
+            {
+                "en": "chest",
+                "gap": "They put both their hands together at chest level."
+            },
+            {
+                "en": "chin",
+                "gap": "He always touches his chin if he is worried about something."
+            },
+            {
+                "en": "clap",
+                "gap": "They clap their hands three times before saying hello."
+            },
+            {
+                "en": "congratulate",
+                "gap": "We use a handshake when we congratulate people."
+            },
+            {
+                "en": "consist of",
+                "gap": "My diet consists of only the healthiest food."
+            },
+            {
+                "en": "cycling",
+                "gap": "Cycling is a good form of exercise."
+            },
+            {
+                "en": "depend on",
+                "gap": "Your success in life does not depend on other people, but on you alone."
+            },
+            {
+                "en": "depressed",
+                "gap": "Lack of sunshine can make you depressed."
+            },
+            {
+                "en": "diabetes",
+                "gap": "Diabetes is one of today’s common diseases."
+            },
+            {
+                "en": "diet",
+                "gap": "Her diet isn’t very good."
+            },
+            {
+                "en": "disease",
+                "gap": "Many of today’s diseases exist because of our modern lifestyle."
+            },
+            {
+                "en": "dream of",
+                "gap": "Do you ever dream of visiting New York?"
+            },
+            {
+                "en": "easy",
+                "gap": "Some people find it easy to keep fit."
+            },
+            {
+                "en": "elbow",
+                "gap": "He sits with his elbows on the table."
+            },
+            {
+                "en": "experiment",
+                "gap": "Tell us how the experiment was carried out."
+            },
+            {
+                "en": "fist",
+                "gap": "In some countries, you bump fists when you greet someone."
+            },
+            {
+                "en": "fitness",
+                "gap": "I’m trying to improve my fitness by cycling to work."
+            },
+            {
+                "en": "forehead",
+                "gap": "They press their foreheads together while closing their eyes."
+            },
+            {
+                "en": "gentle",
+                "gap": "Do plenty of gentle exercise, like walking."
+            },
+            {
+                "en": "germs",
+                "gap": "People worry they might catch germs if they shake somebody’s hand."
+            },
+            {
+                "en": "graduation",
+                "gap": "Will you be at my graduation ceremony?"
+            },
+            {
+                "en": "greet",
+                "gap": "What do you do when you greet a friend?"
+            },
+            {
+                "en": "greeting",
+                "gap": "How much do you know about international greetings?"
+            },
+            {
+                "en": "handshake",
+                "gap": "He welcomed me with a smile and a handshake."
+            },
+            {
+                "en": "happen",
+                "gap": "If something good happens to me, it’s because I deserve it."
+            },
+            {
+                "en": "health",
+                "gap": "It’s important to look after your health and keep fit."
+            },
+            {
+                "en": "hug",
+                "gap": "They hug each other when they greet good friends."
+            },
+            {
+                "en": "impression",
+                "gap": "If you get it wrong, you might give a bad impression."
+            },
+            {
+                "en": "informal",
+                "gap": "You usually do this greeting in an informal situation."
+            },
+            {
+                "en": "junk food",
+                "gap": "Definitely don’t eat any junk food, like crisps."
+            },
+            {
+                "en": "kiss",
+                "gap": "They kiss three times."
+            },
+            {
+                "en": "lip",
+                "gap": "She’s got very thin lips."
+            },
+            {
+                "en": "medical",
+                "gap": "Here’s a copy of my medical certificate."
+            },
+            {
+                "en": "mental health",
+                "gap": "I think that regular physical exercise can help to improve your mental health."
+            },
+            {
+                "en": "natural",
+                "gap": "Eat only natural food like meat, vegetables and fruit."
+            },
+            {
+                "en": "nod",
+                "gap": "They nod their heads."
+            },
+            {
+                "en": "painkiller",
+                "gap": "We’ll give him some strong painkillers before he goes for the X-ray."
+            },
+            {
+                "en": "peace",
+                "gap": "A common theory is that it started as a sign of peace."
+            },
+            {
+                "en": "philosophy",
+                "gap": "That’s part of our philosophy."
+            },
+            {
+                "en": "press",
+                "gap": "They press their noses together."
+            },
+            {
+                "en": "reserve",
+                "gap": "You’ll definitely need to reserve a place before you come."
+            },
+            {
+                "en": "respect",
+                "gap": "I trust and respect you."
+            },
+            {
+                "en": "ridiculous",
+                "gap": "How ridiculous! People will think you are unfriendly if you refuse a handshake."
+            },
+            {
+                "en": "rude",
+                "gap": "In China or Turkey, for example, if your handshake is too tight and strong, you will seem rude."
+            },
+            {
+                "en": "shake hands",
+                "gap": "They shake hands for a very long time."
+            },
+            {
+                "en": "shoulder",
+                "gap": "He touched me on the shoulder to get my attention."
+            },
+            {
+                "en": "sleeve",
+                "gap": "This proved that there were no weapons hiding in their sleeve."
+            },
+            {
+                "en": "smile",
+                "gap": "I always smile at someone when I first meet them."
+            },
+            {
+                "en": "stick",
+                "gap": "They stick their tongues out at each other."
+            },
+            {
+                "en": "succeed in",
+                "gap": "You can succeed in doing anything if you try hard enough."
+            },
+            {
+                "en": "thumb",
+                "gap": "Press the button with your thumb."
+            },
+            {
+                "en": "tongue",
+                "gap": "In some countries, they stick out their tongues as a greeting."
+            },
+            {
+                "en": "touch",
+                "gap": "They greet without touching the body."
+            },
+            {
+                "en": "trend",
+                "gap": "The Paleo movement is a recent trend in health and fitness."
+            },
+            {
+                "en": "virus",
+                "gap": "Instead they died from things like viruses or old age."
+            },
+            {
+                "en": "weapon",
+                "gap": "They would put their right hand forward towards another man and opened it to show they were not holding a knife or other weapon."
+            },
+            {
+                "en": "weight-lifting",
+                "gap": "Only do intense activity like weight-lifting occasionally."
+            },
+            {
+                "en": "work for",
+                "gap": "Jack works for an oil company."
+            }
+        ],
+        "unit10": [
+            {
+                "en": "alcoholic drink",
+                "gap": "Some dark green vegetables can taste bitter."
+            },
+            {
+                "en": "apple juice",
+                "gap": "I drink apple juice for breakfast."
+            },
+            {
+                "en": "bake",
+                "gap": "They’re baked in the oven."
+            },
+            {
+                "en": "best before",
+                "gap": "A ‘best before’ label tells you about quality, not safety."
+            },
+            {
+                "en": "bitter",
+                "gap": "I don’t like it. It’s got a very bitter taste."
+            },
+            {
+                "en": "boiled",
+                "gap": "I don’t like boiled vegetables."
+            },
+            {
+                "en": "bottle",
+                "gap": "Let’s get a bottle of sparkling water as well."
+            },
+            {
+                "en": "box",
+                "gap": "We bought them a box of chocolates."
+            },
+            {
+                "en": "can",
+                "gap": "Can I have a can of lemonade, please?"
+            },
+            {
+                "en": "cardboard",
+                "gap": "This container is made from cardboard."
+            },
+            {
+                "en": "carton",
+                "gap": "There’s a carton of apple juice in the fridge."
+            },
+            {
+                "en": "charge",
+                "gap": "Supermarkets should charge customers for shopping bags."
+            },
+            {
+                "en": "chocolate",
+                "gap": "He gave me some chocolates for my birthday."
+            },
+            {
+                "en": "consumer",
+                "gap": "It’s not the consumers who are responsible for waste."
+            },
+            {
+                "en": "curry",
+                "gap": "Most curry dishes are hot and spicy."
+            },
+            {
+                "en": "dessert",
+                "gap": "Would you like some cake for dessert?"
+            },
+            {
+                "en": "different",
+                "gap": "There are many different sorts of spring roll."
+            },
+            {
+                "en": "dish",
+                "gap": "I usually serve this dish with vegetables."
+            },
+            {
+                "en": "doggy bag",
+                "gap": "Ask the waiter for a ‘doggy bag’ to take home food you can’t eat."
+            },
+            {
+                "en": "figure",
+                "gap": "Please write the number in words and figures. / It's figure of a man."
+            },
+            {
+                "en": "flavour",
+                "gap": "You dip them into this sauce to give them extra flavour."
+            },
+            {
+                "en": "frozen",
+                "gap": "I need a packet of frozen peas for the meal tonight."
+            },
+            {
+                "en": "fry",
+                "gap": "Sometimes the spring rolls are fried."
+            },
+            {
+                "en": "funny",
+                "gap": "Do you know any funny jokes? on the way to work."
+            },
+            {
+                "en": "herb",
+                "gap": "There are lots of herbs in this stew."
+            },
+            {
+                "en": "honey",
+                "gap": "The tagine has some honey in it so it tastes quite sweet."
+            },
+            {
+                "en": "jar",
+                "gap": "Could you buy a jar of olives when you’re at the supermarket, please?"
+            },
+            {
+                "en": "kind of",
+                "gap": "It’s a kind of stew."
+            },
+            {
+                "en": "lamb",
+                "gap": "This tagine is made with pieces of lamb."
+            },
+            {
+                "en": "leave",
+                "gap": "I’ve left some cake for you."
+            },
+            {
+                "en": "left",
+                "gap": "We took a left turn instead of right."
+            },
+            {
+                "en": "mark",
+                "gap": "There’s a mark on my trousers. the test?"
+            },
+            {
+                "en": "olives",
+                "gap": "Would you like some olives to have with your drink?"
+            },
+            {
+                "en": "packet",
+                "gap": "I think there’s a packet of frozen peas in the freezer."
+            },
+            {
+                "en": "plain",
+                "gap": "I prefer plain food. Nothing spicy."
+            },
+            {
+                "en": "preserve",
+                "gap": "His invention preserved food beautifully."
+            },
+            {
+                "en": "pretty",
+                "gap": "She’s a very pretty woman."
+            },
+            {
+                "en": "pretty",
+                "gap": "It’s pretty expensive."
+            },
+            {
+                "en": "raspberry",
+                "gap": "Would you like some raspberries for dessert?"
+            },
+            {
+                "en": "raw",
+                "gap": "They’re filled with raw vegetables."
+            },
+            {
+                "en": "sauce",
+                "gap": "You dip the spring rolls into this sauce to give them extra flavour."
+            },
+            {
+                "en": "savoury",
+                "gap": "Do you prefer sweet or savoury food?"
+            },
+            {
+                "en": "serve",
+                "gap": "This dish is often served with rice."
+            },
+            {
+                "en": "several",
+                "gap": "There are several different vegetables you can eat with this dish."
+            },
+            {
+                "en": "shocking",
+                "gap": "It’s a pretty shocking figure. So what are the facts behind it?"
+            },
+            {
+                "en": "snack",
+                "gap": "I have a small snack at  11a.m."
+            },
+            {
+                "en": "sour",
+                "gap": "The sauce has lime juice in it to make it sour."
+            },
+            {
+                "en": "sparkling water",
+                "gap": "Please can I have some sparkling water?"
+            },
+            {
+                "en": "spice",
+                "gap": "This dish is made with lots of different spices."
+            },
+            {
+                "en": "spicy",
+                "gap": "There is some chilli in the sauce to make it spicy."
+            },
+            {
+                "en": "spinach",
+                "gap": "Spinach has a bitter taste."
+            },
+            {
+                "en": "stew",
+                "gap": "I’m making a lamb stew tonight. Would you like some?"
+            },
+            {
+                "en": "strawberry",
+                "gap": "You put strawberry jam on them."
+            },
+            {
+                "en": "tagine",
+                "gap": "Tagine is a kind of stew."
+            },
+            {
+                "en": "taste",
+                "gap": "This has a nice, bitter taste."
+            },
+            {
+                "en": "taste buds",
+                "gap": "People taste food differently; it depends on the number of taste buds on your tongue."
+            },
+            {
+                "en": "texture",
+                "gap": "I love all the different textures in this dish."
+            },
+            {
+                "en": "thick",
+                "gap": "This is quite a thick sauce, but it tastes lovely."
+            },
+            {
+                "en": "tin",
+                "gap": "I’m going to use a tin of tomatoes."
+            },
+            {
+                "en": "tobacco",
+                "gap": "Tobacco has a strong taste."
+            },
+            {
+                "en": "tomato",
+                "gap": "We need some tomatoes for the salad."
+            },
+            {
+                "en": "toothpaste",
+                "gap": "I need to buy a tube of toothpaste."
+            },
+            {
+                "en": "transportation",
+                "gap": "The waste happens on farms during production, or transportation."
+            },
+            {
+                "en": "tube",
+                "gap": "Did you pack a tube of toothpaste?"
+            },
+            {
+                "en": "use by",
+                "gap": "Make sure you check the ‘use by’ date on the label."
+            },
+            {
+                "en": "wasteful",
+                "gap": "In the past, people were not as wasteful as they are today."
+            }
+        ],
+        "unit11": [
+            {
+                "en": "abroad",
+                "gap": "Many people are looking for jobs abroad."
+            },
+            {
+                "en": "article",
+                "gap": "It was also the first time that newspapers contained pictures as well as articles."
+            },
+            {
+                "en": "attachment",
+                "gap": "No email communication is 100% secure. You should only open attachments if you trust the sender."
+            },
+            {
+                "en": "benefit",
+                "gap": "Everybody would benefit from a bit of extra intelligence."
+            },
+            {
+                "en": "bunch",
+                "gap": "She gave me a bunch of flowers."
+            },
+            {
+                "en": "carry on",
+                "gap": "History and human problems change, but time and nature carry on."
+            },
+            {
+                "en": "continent",
+                "gap": "News reached different continents within minutes."
+            },
+            {
+                "en": "coral reef",
+                "gap": "We need to keep tourists away from the damaged coral reefs."
+            },
+            {
+                "en": "crash",
+                "gap": "People who saw the crash posted comments and photos on Twitter."
+            },
+            {
+                "en": "cure",
+                "gap": "Is there a possible cure for AIDS?"
+            },
+            {
+                "en": "election",
+                "gap": "I want to watch the news report about the European elections."
+            },
+            {
+                "en": "erupt",
+                "gap": "When a volcano erupted on the Pacific island of Krakatoa in 1883 it killed 36,000 people."
+            },
+            {
+                "en": "expensive",
+                "gap": "Ordinary people didn’t use to buy newspapers because they were expensive."
+            },
+            {
+                "en": "extreme",
+                "gap": "There has been an increase in extreme weather conditions."
+            },
+            {
+                "en": "financial",
+                "gap": "What do you think about the financial crisis?"
+            },
+            {
+                "en": "find out",
+                "gap": "You need to find out the answer yourself."
+            },
+            {
+                "en": "flock",
+                "gap": "A plane landed in the Hudson River after a flock of birds flew into its engine."
+            },
+            {
+                "en": "flood",
+                "gap": "The road is closed because of a flood."
+            },
+            {
+                "en": "forest fire",
+                "gap": "There is a large forest fire near Sydney, Australia."
+            },
+            {
+                "en": "give up",
+                "gap": "I want to give up smoking."
+            },
+            {
+                "en": "global",
+                "gap": "The global economy has become unstable."
+            },
+            {
+                "en": "global warming",
+                "gap": "Is global warming really happening?"
+            },
+            {
+                "en": "grow up",
+                "gap": "He wants children to grow up to have a positive relationship with nature."
+            },
+            {
+                "en": "home-made",
+                "gap": "This is lovely home-made jam."
+            },
+            {
+                "en": "hunger",
+                "gap": "They do a lot to try and fight world hunger and poverty."
+            },
+            {
+                "en": "hurricane",
+                "gap": "Did you hear about the hurricane off the Mexican coast?"
+            },
+            {
+                "en": "intelligent",
+                "gap": "My idea to change the world is to spend more money on developing drugs that can make us more intelligent."
+            },
+            {
+                "en": "invention",
+                "gap": "This changed in the 1850s with the invention of powerful printing presses."
+            },
+            {
+                "en": "issue",
+                "gap": "I want to talk to you about global issues."
+            },
+            {
+                "en": "man-made",
+                "gap": "It’s a region that has suffered many man-made problems."
+            },
+            {
+                "en": "milestone",
+                "gap": "There have been several media milestones."
+            },
+            {
+                "en": "natural disaster",
+                "gap": "It was one of the worst natural disasters in history."
+            },
+            {
+                "en": "powerful",
+                "gap": "The powerful printing presses could print 10,000 papers per hour."
+            },
+            {
+                "en": "put down",
+                "gap": "He carefully put down the statues."
+            },
+            {
+                "en": "put on",
+                "gap": "I think she’s put on weight."
+            },
+            {
+                "en": "reach",
+                "gap": "The news of Abraham Lincoln’s death took nearly two weeks to reach Europe in 1865."
+            },
+            {
+                "en": "report",
+                "gap": "Now anybody can report news."
+            },
+            {
+                "en": "robbery",
+                "gap": "They’ve arrested two men in connection with the robbery."
+            },
+            {
+                "en": "sculptor",
+                "gap": "I’ve been a sculptor for a long time."
+            },
+            {
+                "en": "secure",
+                "gap": "Be careful when you check emails in an internet café as public Wi-Fi is not always secure."
+            },
+            {
+                "en": "set up",
+                "gap": "They want to set up a business this year."
+            },
+            {
+                "en": "spread",
+                "gap": "The news spread around the world in seconds."
+            },
+            {
+                "en": "steal",
+                "gap": "Don’t leave your work files or laptop in your car because someone might steal them."
+            },
+            {
+                "en": "strike",
+                "gap": "Because of the transport strike, there are no trains running today."
+            },
+            {
+                "en": "telegraph",
+                "gap": "Before the telegraph was invented, it used to take weeks for news to travel around the world."
+            },
+            {
+                "en": "up to date",
+                "gap": "The news wasn’t always up to date."
+            },
+            {
+                "en": "weekly",
+                "gap": "News reels were changed weekly, not daily."
+            },
+            {
+                "en": "wire",
+                "gap": "News could travel around the world in minutes, using undersea electrical telegraph wires."
+            }
+        ],
+        "unit12": [
+            {
+                "en": "accountant",
+                "gap": "I’d like to become an accountant."
+            },
+            {
+                "en": "administration",
+                "gap": "I work in administration."
+            },
+            {
+                "en": "advertising campaign",
+                "gap": "We need some help with our advertising campaign."
+            },
+            {
+                "en": "arm wrestle",
+                "gap": "He asked us if we wanted an arm wrestle."
+            },
+            {
+                "en": "building site",
+                "gap": "Nicholas works on a building site."
+            },
+            {
+                "en": "business",
+                "gap": "We run the day-to-day business of the court."
+            },
+            {
+                "en": "candidate",
+                "gap": "She asked the candidate, ‘Where do you see yourself in five years’ time?’"
+            },
+            {
+                "en": "client",
+                "gap": "My job is to advise clients about their business."
+            },
+            {
+                "en": "construction",
+                "gap": "She works for a construction company."
+            },
+            {
+                "en": "corporate",
+                "gap": "He was applying for the job at the corporate office of a shoe company."
+            },
+            {
+                "en": "court",
+                "gap": "Martha works in a court."
+            },
+            {
+                "en": "customer",
+                "gap": "I deal with all the customer enquiries."
+            },
+            {
+                "en": "day-to-day",
+                "gap": "She is responsible for the day-to-day business."
+            },
+            {
+                "en": "engineering",
+                "gap": "I’m studying engineering at university."
+            },
+            {
+                "en": "enquiry",
+                "gap": "We answer phone enquiries and deal with emails."
+            },
+            {
+                "en": "entertain",
+                "gap": "It is my job to entertain the staff."
+            },
+            {
+                "en": "health care",
+                "gap": "They both work in health care."
+            },
+            {
+                "en": "in a hurry",
+                "gap": "It’s easy to make mistakes if you do things in a hurry."
+            },
+            {
+                "en": "in a mess",
+                "gap": "He never tidies his desk. It’s always in a mess."
+            },
+            {
+                "en": "in charge of",
+                "gap": "The assistant manager’s in charge of the hotel while the manager’s away."
+            },
+            {
+                "en": "in detail",
+                "gap": "There isn’t time to explain the plan in detail now."
+            },
+            {
+                "en": "in the middle",
+                "gap": "I’m in the middle of doing something at the moment."
+            },
+            {
+                "en": "in trouble",
+                "gap": "If I’m late again, I’ll be in trouble with the boss."
+            },
+            {
+                "en": "inventor",
+                "gap": "Who was the inventor of the light bulb?"
+            },
+            {
+                "en": "judge",
+                "gap": "Martha works as a judge."
+            },
+            {
+                "en": "laboratory",
+                "gap": "He’s a scientist and works in a laboratory."
+            },
+            {
+                "en": "law",
+                "gap": "She works for a law firm."
+            },
+            {
+                "en": "light bulb",
+                "gap": "Thomas Edison is famous for inventing the light bulb."
+            },
+            {
+                "en": "medical research",
+                "gap": "I work in medical research at the university."
+            },
+            {
+                "en": "negative",
+                "gap": "She’s quite a negative person."
+            },
+            {
+                "en": "neutral",
+                "gap": "He sounds neutral. He doesn’t really have an opinion."
+            },
+            {
+                "en": "nurse",
+                "gap": "I work as a nurse."
+            },
+            {
+                "en": "office",
+                "gap": "She works in an office."
+            },
+            {
+                "en": "open-plan",
+                "gap": "I work in an open-plan office."
+            },
+            {
+                "en": "paperwork",
+                "gap": "I also do a lot of paperwork."
+            },
+            {
+                "en": "personal assistant PA",
+                "gap": "She works as a PA."
+            },
+            {
+                "en": "politics",
+                "gap": "He is planning to retire from politics next year."
+            },
+            {
+                "en": "positive",
+                "gap": "Mike is very positive about the future."
+            },
+            {
+                "en": "presentation",
+                "gap": "I have to give presentations."
+            },
+            {
+                "en": "productivity",
+                "gap": "Research has shown that the noise in open-plan offices can reduce productivity by 66%."
+            },
+            {
+                "en": "profession",
+                "gap": "What profession do you work in?"
+            },
+            {
+                "en": "real-life",
+                "gap": "You have to try and solve real-life problems."
+            },
+            {
+                "en": "recruit",
+                "gap": "The way that companies recruit new staff has also changed."
+            },
+            {
+                "en": "report",
+                "gap": "I have to write reports and give presentations."
+            },
+            {
+                "en": "software developer",
+                "gap": "I’m a software developer for a big company."
+            },
+            {
+                "en": "staff",
+                "gap": "I train kitchen and waiting staff."
+            },
+            {
+                "en": "study",
+                "gap": "She’s studying politics at university."
+            },
+            {
+                "en": "tattoo",
+                "gap": "His back was covered in tattoos."
+            },
+            {
+                "en": "zone",
+                "gap": "Desks were organized into work zones of different sizes."
+            }
+        ]
+    }
+}

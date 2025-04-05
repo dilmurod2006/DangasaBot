@@ -1,0 +1,126 @@
+aerobics
+She does aerobics once or twice a week.
+blog
+Would you like to write a blog about your daily life?
+busy 
+My life is too busy.
+camping 
+We usually go camping in the summer.
+cards 
+Marta and Felix often play cards together.
+chat 
+I like to chat with friends online.
+chess
+Mehmet plays chess once or twice a week.
+cloudy 
+It’s very cloudy today.
+coffee 
+We hardly ever go out for a coffee.
+cold 
+The air’s cold this morning.
+computer game 
+He nearly always plays computer games after school.
+damp 
+Wear your raincoat. It’s another damp day today.
+dream 
+Do you ever have a dream about flying?
+early 
+I’m going to have an early night.
+equal 
+You should try to have an equal balance of all three.
+exercise 
+You should do some exercise.
+family 
+Do you spend a lot of time with your family?
+film
+Have you ever made a film and posted it on YouTube?
+film 
+One of them stands next to the painting as the other one films her.
+fun 
+I like to have fun.
+golf
+Do you play golf?
+gym
+I sometimes go to the gym after work.
+homework 
+Make sure you do your homework before supper.
+hot 
+I love this hot weather.
+housework
+I’m going to do the housework after lunch.
+humid
+I hate this humid weather.
+indoors 
+We sometimes play cards indoors.
+karate
+He does karate most days.
+late 
+I try not to go to bed late during the week.
+lie-in
+Are you going to have a lie-in on Sunday?
+light 
+There is going to be some light snow this evening.
+lightning
+Did you see the lightning last night?
+look 
+We’ll have a look at it back at the hotel.
+make a list 
+I always start the day by making a to-do list.
+make plans 
+She is making plans for her future.
+meal 
+We sometimes go out for a meal.
+nasty
+The water’s too warm and there are sea snakes and other nasty animals.
+outdoors 
+They are always playing outdoors.
+period 
+There are going to be some short periods of rain later.
+photograph 
+I always look serious if someone takes a photograph of me.
+pleasant 
+The weather is very pleasant.
+pleasure 
+Can you say ‘no’ to immediate pleasures?
+post 
+We’ll post that on Facebook later.
+promise 
+When I make a promise, I never change my mind.
+psychologist
+Professor Philip Zimbardo is a psychologist.
+record 
+I always make a record of everything I spend in a day.
+record 
+We can record the speech and post it on YouTube later.
+relationship 
+They have a very good relationship with their parents.
+relative 
+I love spending time with relatives.
+reviewer
+Here to tell us about the new book by Haruki Murakami is this week’s reviewer, Maria Georgiou.
+running 
+Do you ever go running?
+shopping 
+I’m going to do the shopping this afternoon.
+snowfall
+In the late autumn we get our first snowfalls.
+spend time 
+You should try and spend more time with relatives.
+stay in 
+I’m going to stay in tonight.
+swimming 
+We never go swimming.
+text 
+Do you use special language when you write a text?
+time 
+Do you spend time with family during your holidays?
+to-do list
+There’s so much to do. You should make a to-do list.
+trip 
+Let’s go on a trip somewhere.
+uncomfortable 
+This hot weather is uncomfortable.
+walk 
+She rarely goes for a walk.
+work 
+I must do some work this afternoon.

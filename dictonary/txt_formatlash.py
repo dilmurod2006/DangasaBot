@@ -23,6 +23,13 @@ keraksiz_words = [
     "n = noun",
     "pl = plural",
     "prep = preposition",
+    "  of Navigate A Coursebook. ",
+    "Photocopiable © Oxford University Press 0",
+    "  adv  ",
+    "phr v  ",
+    "  phr  ",
+    "  prep  ",
+    "  v   ",
     "Unit 1",
     "Unit 2",
     "Unit 3",
@@ -81,9 +88,15 @@ keraksiz_words = [
     "B1+  Wordlist Unit 10",
     "B1+  Wordlist Unit 11",
     "B1+  Wordlist Unit 12",
+    "Photocopiable © Oxford University Press 0",
+    "  of Navigate B Coursebook. ",
+    "Photocopiable © Oxford University Press 0",
+    "B  Wordlist ",
 ]
 testcha = ["1","2","3","4","5"," .","  ​n  ​","  adj  ","  ​adv  ​","  ​v  ​","  det  ","Numbers –0","  ​pron  ​","A  Wordlist ","  ​conj  ​","  ​prep  ​"
-           "  ​phr  ​","  ​exclamation  ​","  ​adj  ​","  ​prep  ","  ​phr  ​"]
+           "  ​phr  ​","  ​exclamation  ​","  ​adj  ​","  ​prep  ","  ​phr  ​","  pron, pl  ","  pron  ","  n pl  ","  ​n​","  ​phr v  ​",
+           "  n pl  ","  adj  ","  ​phr  ","  ​phr​","  ​det  ​","  n  ","  v  "
+           ]
 
 
 # Faylni o'qish va tozalash funksiyasi
@@ -120,13 +133,16 @@ def save_cleaned_file(file_name, cleaned_content):
 
 # Fayllarni tozalash
 def clean_all_files(folder_path):
-    for file_name in os.listdir(folder_path):
-        if file_name.endswith('.txt'):
-            file_path = os.path.join(folder_path, file_name)
-            cleaned_content = clean_text(file_path)
-            save_cleaned_file(file_path, cleaned_content)
-            print(f"Fayl tozalandi: {file_name}")
+    txt_files = [f for f in os.listdir(folder_path) if f.endswith('.txt')]
+    txt_files.sort(key=lambda x: int(''.join(filter(str.isdigit, x)) or 0))  # 'unit10' -> 10
+
+    for file_name in txt_files:
+        file_path = os.path.join(folder_path, file_name)
+        cleaned_content = clean_text(file_path)
+        save_cleaned_file(file_path, cleaned_content)
+        print(f"Fayl tozalandi: {file_name}")
+
 
 # Folderdagi barcha fayllarni tozalash
-folder_path = r'C:\Users\SULTON\DangasaBot\navigate_books\navigate-a1-unit-wordlist'  # Bu yerga o'z papkangizning yo'lini qo'ying
+folder_path = r'C:\Users\SULTON\DangasaBot\navigate_books\navigate-c1-unit-wordlist'  # Bu yerga o'z papkangizning yo'lini qo'ying
 clean_all_files(folder_path)

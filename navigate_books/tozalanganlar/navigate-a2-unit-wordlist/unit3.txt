@@ -1,0 +1,130 @@
+address 
+Write down your address and phone number.
+administrator
+Just tell the administrator before you leave.
+again 
+Say that again, please.
+airline
+My brother flies planes for a Japanese airline.
+answer 
+What’s the answer to this question?
+author 
+His brother’s an author. He’s writing a book at the moment.
+baker
+His father’s a baker.
+beginner
+It’s difficult for a beginner to understand very much in a new language.
+builder
+My brother’s a builder.
+bus driver
+My brother drives buses in the city. He’s a bus driver.
+businessman 
+He has his own company. He’s a businessman.
+businesswoman 
+She has her own company. She’s a businesswoman.
+calm 
+He’s a very calm person.
+chef
+Daniela cooks food in a restaurant. She’s a chef.
+cleaner
+My cousin cleans offices and people’s houses. She’s a cleaner.
+clever 
+Your daughter’s very clever.
+colleague 
+He really enjoys his job because his colleagues are also his friends.
+company 
+He works for a company in the city.
+dancer 
+She’s a dancer.
+dentist 
+Sameeha cleans and fixes people’s teeth. She’s a dentist.
+driver 
+My brother’s a really bad driver.
+earn 
+She earns a lot of money.
+factory 
+My father works in a factory.
+farmer 
+My uncle’s a farmer.
+fix 
+My son fixes a lot of different machines. He’s a mechanic.
+forest 
+I work in a big forest.
+forget 
+Don’t forget we’re going to the cinema tomorrow.
+hairdresser 
+He washes hair, cuts it and dries it. He’s a hairdresser.
+important 
+Which things do you think are most important in a job?
+inside 
+Do you work inside?
+internet 
+I used the internet to book my holiday.
+journalist 
+Ekaterina writes for the newspaper. She’s a journalist.
+later 
+I’ll see you later.
+lonely 
+Some people think mechanics, cleaners, farmers and artists have a lonely life.
+lookout
+I am a ‘fire lookout’.
+lucky 
+And who are these lucky people?
+magazine 
+My mother is a journalist and she works for a fashion magazine.
+manager 
+She works in an office. She’s a manager.
+money 
+She makes a lot of money.
+MP player
+It’s an MP player.
+musician 
+My cousin sings and plays the guitar in a band. She’s a musician.
+nurse 
+She works in a hospital and helps sick people. She’s a nurse.
+office worker
+They say that office workers are happy because they usually work as part of a team.
+painter 
+My uncle is a painter.
+part-time
+My grandmother works part-time as a cleaner.
+photographer 
+Manu takes pictures with his camera. He’s a photographer.
+piano 
+I play the piano at a cinema in town.
+pilot 
+My brother flies planes. He’s a pilot.
+place of work
+I think your place of work is very important.
+police officer
+Serena catches criminals and makes people feel safe. She’s a police officer.
+retired 
+My parents are both retired.
+salary 
+His salary is really good. He earns a lot of money.
+silent 
+At my cinema, they have a lot of old, silent movies, so they need someone to play music.
+singer 
+She’s a singer in a band.
+student 
+She studies at university. She’s a student.
+teacher 
+My sister’s a teacher.
+ticket 
+I work in a cinema in town, but I don’t sell tickets.
+tower 
+I work in a very high tower so I can see very far.
+uniform 
+She hates the uniform that police officers wear.
+unusual 
+Do you have an unusual job?
+well-paid
+He’s very well-paid.
+winner 
+You win. You’re the winner.
+work freelance
+I don’t have a boss because I work freelance.
+work long hours 
+Do you work long hours?
+writer 
+My cousin is a famous writer.

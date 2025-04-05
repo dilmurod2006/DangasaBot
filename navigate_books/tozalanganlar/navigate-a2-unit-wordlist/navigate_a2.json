@@ -1,0 +1,2848 @@
+{
+    "navigate_a2": {
+        "unit1": [
+            {
+                "en": "American",
+                "gap": "My boss isn’t American."
+            },
+            {
+                "en": "Arabic",
+                "gap": "They’re Arabic."
+            },
+            {
+                "en": "artist",
+                "gap": "She’s an artist."
+            },
+            {
+                "en": "aunt",
+                "gap": "Is she your aunt?"
+            },
+            {
+                "en": "boss",
+                "gap": "My boss isn’t American, she’s Turkish."
+            },
+            {
+                "en": "British",
+                "gap": "I’m from London. I’m British."
+            },
+            {
+                "en": "brother",
+                "gap": "My brother is a doctor."
+            },
+            {
+                "en": "brother-in-law",
+                "gap": "My brother-in-law is a doctor."
+            },
+            {
+                "en": "business management",
+                "gap": "He studied business management at university."
+            },
+            {
+                "en": "car mechanic",
+                "gap": "I’m a car mechanic."
+            },
+            {
+                "en": "child",
+                "gap": "They have one child."
+            },
+            {
+                "en": "children",
+                "gap": "How old are your children?"
+            },
+            {
+                "en": "Chinese",
+                "gap": "My neighbours are Chinese."
+            },
+            {
+                "en": "communicate",
+                "gap": "I’m good at communicating with people."
+            },
+            {
+                "en": "country",
+                "gap": "Which country are you from?"
+            },
+            {
+                "en": "cousin",
+                "gap": "Anna is my cousin."
+            },
+            {
+                "en": "daughter",
+                "gap": "Their daughter is married."
+            },
+            {
+                "en": "designer",
+                "gap": "She’s Australian and she’s a designer."
+            },
+            {
+                "en": "Emirati",
+                "gap": "They’re from Dubai. They’re Emirati."
+            },
+            {
+                "en": "family name",
+                "gap": "His family name’s Ramirez."
+            },
+            {
+                "en": "father",
+                "gap": "Her father’s name is Hasan."
+            },
+            {
+                "en": "fluent",
+                "gap": "She’s fluent in Portuguese."
+            },
+            {
+                "en": "French",
+                "gap": "My wife’s mother is French."
+            },
+            {
+                "en": "genetic",
+                "gap": "The village doctor says it isn’t genetic; he thinks it’s something in the water or the food."
+            },
+            {
+                "en": "granddaughter",
+                "gap": "Her granddaughter is at university."
+            },
+            {
+                "en": "grandfather",
+                "gap": "How old is your grandfather?"
+            },
+            {
+                "en": "grandmother",
+                "gap": "My grandmother is Spanish."
+            },
+            {
+                "en": "grandson",
+                "gap": "They have one grandson."
+            },
+            {
+                "en": "Greek",
+                "gap": "Are your neighbours Greek?"
+            },
+            {
+                "en": "Hungarian",
+                "gap": "Are you Hungarian?"
+            },
+            {
+                "en": "husband",
+                "gap": "My husband is Italian."
+            },
+            {
+                "en": "introduce",
+                "gap": "Let me introduce you to the other students."
+            },
+            {
+                "en": "Italian",
+                "gap": "They’re Italian."
+            },
+            {
+                "en": "Japanese",
+                "gap": "My neighbours are Japanese."
+            },
+            {
+                "en": "last name",
+                "gap": "In some countries, wives can have their husband’s last names after they’re married."
+            },
+            {
+                "en": "Lebanese",
+                "gap": "Are they Lebanese?"
+            },
+            {
+                "en": "married",
+                "gap": "Are you married?"
+            },
+            {
+                "en": "Mexican",
+                "gap": "I’m from Mexico. I’m Mexican."
+            },
+            {
+                "en": "mother",
+                "gap": "She is the mother of six children."
+            },
+            {
+                "en": "nationality",
+                "gap": "What’s your nationality?"
+            },
+            {
+                "en": "neighbour",
+                "gap": "The neighbours are a family from Iraq."
+            },
+            {
+                "en": "nephew",
+                "gap": "My nephew’s name is José."
+            },
+            {
+                "en": "niece",
+                "gap": "What’s your niece’s name?"
+            },
+            {
+                "en": "Nigerian",
+                "gap": "I’m from Nigeria. I’m Nigerian."
+            },
+            {
+                "en": "Pakistani",
+                "gap": "His father’s from Pakistan. He’s Pakistani."
+            },
+            {
+                "en": "Polish",
+                "gap": "There’s a Polish supermarket next to our house."
+            },
+            {
+                "en": "Portuguese",
+                "gap": "Is José Portuguese?"
+            },
+            {
+                "en": "restaurant",
+                "gap": "I work in a restaurant."
+            },
+            {
+                "en": "Russian",
+                "gap": "My neighbour is Russian."
+            },
+            {
+                "en": "saxophone",
+                "gap": "I play the saxophone."
+            },
+            {
+                "en": "single",
+                "gap": "Is Sylvie single?"
+            },
+            {
+                "en": "sister",
+                "gap": "How old is your sister?"
+            },
+            {
+                "en": "son",
+                "gap": "I’m his son."
+            },
+            {
+                "en": "Spanish",
+                "gap": "Is Martha Spanish?"
+            },
+            {
+                "en": "stepfather",
+                "gap": "Didier is my stepfather."
+            },
+            {
+                "en": "supermarket",
+                "gap": "My Saturday job is at a Chinese supermarket called Jing Jing Foods."
+            },
+            {
+                "en": "Turkish",
+                "gap": "She isn’t American, she’s Turkish."
+            },
+            {
+                "en": "twin",
+                "gap": "Four of their sons are twins."
+            },
+            {
+                "en": "typical",
+                "gap": "It’s a typical village, but its people are not typical."
+            },
+            {
+                "en": "uncle",
+                "gap": "My uncle’s a teacher."
+            },
+            {
+                "en": "unemployed",
+                "gap": "I’m unemployed at the moment."
+            },
+            {
+                "en": "Urdu",
+                "gap": "They speak Urdu."
+            },
+            {
+                "en": "Vietnamese",
+                "gap": "She’s Vietnamese."
+            },
+            {
+                "en": "wife",
+                "gap": "His wife’s name is Rashida."
+            }
+        ],
+        "unit2": [
+            {
+                "en": "agree with",
+                "gap": "I usually agree with my friends."
+            },
+            {
+                "en": "alone",
+                "gap": "Melanie often works there alone."
+            },
+            {
+                "en": "ask for",
+                "gap": "Do students often ask for a discount?"
+            },
+            {
+                "en": "astronaut",
+                "gap": "All astronauts in Europe learn their job at the European Astronaut Centre in Cologne in Germany."
+            },
+            {
+                "en": "beach",
+                "gap": "In the summer, I get up early and go to the beach."
+            },
+            {
+                "en": "body clock",
+                "gap": "There is no perfect time to sleep because everyone’s body clock is different."
+            },
+            {
+                "en": "break",
+                "gap": "She stops for a break in the morning at quarter past eleven."
+            },
+            {
+                "en": "breakfast",
+                "gap": "I usually have eggs and cheese for breakfast."
+            },
+            {
+                "en": "canteen",
+                "gap": "She has breakfast in the canteen at eight o’clock."
+            },
+            {
+                "en": "cereal",
+                "gap": "I eat cereal for breakfast every morning."
+            },
+            {
+                "en": "class",
+                "gap": "Classes start again at half past seven."
+            },
+            {
+                "en": "dangerous",
+                "gap": "Male seals are big and sometimes dangerous."
+            },
+            {
+                "en": "dirty",
+                "gap": "It’s dirty in the city."
+            },
+            {
+                "en": "discount",
+                "gap": "Do students often ask for a discount?"
+            },
+            {
+                "en": "expert",
+                "gap": "Sleep expert Dr Michael Howell says the best sleep is six hours at night and two hours in the afternoon."
+            },
+            {
+                "en": "eyesight",
+                "gap": "Do you need perfect eyesight to be an astronaut?"
+            },
+            {
+                "en": "feel well",
+                "gap": "Most astronauts don’t feel well when they first go into space."
+            },
+            {
+                "en": "free",
+                "gap": "Tea and coffee are free at work."
+            },
+            {
+                "en": "free time",
+                "gap": "He works very hard and he hardly ever has free time."
+            },
+            {
+                "en": "fresh air",
+                "gap": "I prefer to live in the country because of the fresh air."
+            },
+            {
+                "en": "get up",
+                "gap": "I get up at about seven o’clock."
+            },
+            {
+                "en": "go",
+                "gap": "I go to work at eight o’clock."
+            },
+            {
+                "en": "go clubbing",
+                "gap": "We go clubbing every weekend."
+            },
+            {
+                "en": "half past",
+                "gap": "Classes finish at half past six in the evening."
+            },
+            {
+                "en": "have dinner",
+                "gap": "We usually have dinner at 7 p.m."
+            },
+            {
+                "en": "have lunch",
+                "gap": "I always have lunch at0."
+            },
+            {
+                "en": "hungry",
+                "gap": "I am always hungry during the day."
+            },
+            {
+                "en": "idea",
+                "gap": "We sometimes have different ideas."
+            },
+            {
+                "en": "journey",
+                "gap": "How was your journey?"
+            },
+            {
+                "en": "lab",
+                "gap": "He works in the lab every afternoon."
+            },
+            {
+                "en": "late",
+                "gap": "My sister never waits for people who are late."
+            },
+            {
+                "en": "listen",
+                "gap": "Gregorja listens to pop and classical music."
+            },
+            {
+                "en": "meeting",
+                "gap": "I’d like to talk to you before the meeting tomorrow."
+            },
+            {
+                "en": "noisy",
+                "gap": "City life is sometimes noisy."
+            },
+            {
+                "en": "outside",
+                "gap": "I often have lunch outside a café or a restaurant."
+            },
+            {
+                "en": "pay",
+                "gap": "Do you pay for tea and coffee at work?"
+            },
+            {
+                "en": "penguin",
+                "gap": "Melanie Szabo studies penguins."
+            },
+            {
+                "en": "perfect",
+                "gap": "His English is perfect."
+            },
+            {
+                "en": "physics",
+                "gap": "In the mornings, we study things like physics."
+            },
+            {
+                "en": "plan",
+                "gap": "Thanks, but I’m afraid I have plans for tonight."
+            },
+            {
+                "en": "professor",
+                "gap": "Melanie Szabo is a professor."
+            },
+            {
+                "en": "public transport",
+                "gap": "What time does public transport stop?"
+            },
+            {
+                "en": "quarter past",
+                "gap": "He stops for a break in the morning at quarter past ten."
+            },
+            {
+                "en": "quarter to",
+                "gap": "She goes to morning classes at quarter to nine."
+            },
+            {
+                "en": "read",
+                "gap": "In my free time I like to listen to music or read a book."
+            },
+            {
+                "en": "reply",
+                "gap": "Do we have a reply from them?"
+            },
+            {
+                "en": "rise",
+                "gap": "The sun rises at about half past five in the morning."
+            },
+            {
+                "en": "sandwich",
+                "gap": "We buy sandwiches at lunchtime."
+            },
+            {
+                "en": "scientific",
+                "gap": "Bird Island is an important scientific research centre."
+            },
+            {
+                "en": "scientist",
+                "gap": "Every year lots of scientists visit the island."
+            },
+            {
+                "en": "seal",
+                "gap": "Sven Olafsson studies seals."
+            },
+            {
+                "en": "shop",
+                "gap": "The shops open at half past eight in the morning."
+            },
+            {
+                "en": "shower",
+                "gap": "I sometimes have a shower in the morning."
+            },
+            {
+                "en": "sickness",
+                "gap": "They often have space sickness."
+            },
+            {
+                "en": "sleeping bag",
+                "gap": "They don’t sleep in a bed – they sleep in special sleeping bags."
+            },
+            {
+                "en": "soup",
+                "gap": "They do very good Korean soup there."
+            },
+            {
+                "en": "space",
+                "gap": "Some astronauts stay in space for over a year at a time."
+            },
+            {
+                "en": "spacesuit",
+                "gap": "Astronauts only need a spacesuit when they go on a space walk."
+            },
+            {
+                "en": "start",
+                "gap": "School starts at eight o’clock in the morning."
+            },
+            {
+                "en": "stop",
+                "gap": "Public transport usually stops at  o’clock at night."
+            },
+            {
+                "en": "student card",
+                "gap": "They need to show their student card."
+            },
+            {
+                "en": "think about",
+                "gap": "When he’s alone, he thinks about his friends and family."
+            },
+            {
+                "en": "tired",
+                "gap": "Many of us feel tired during the day."
+            },
+            {
+                "en": "title",
+                "gap": "Titles and names can tell us a lot about people."
+            },
+            {
+                "en": "toast",
+                "gap": "They usually have toast for breakfast."
+            },
+            {
+                "en": "trainee",
+                "gap": "Sanaa Diya is a trainee astronaut at the European Astronaut Centre in Cologne."
+            },
+            {
+                "en": "volcano",
+                "gap": "He arrives at a volcano at 7 o’clock."
+            },
+            {
+                "en": "wait",
+                "gap": "Do people often wait for buses and trains in your city?"
+            },
+            {
+                "en": "wake up",
+                "gap": "I try to wake up early, but it’s difficult."
+            },
+            {
+                "en": "wall",
+                "gap": "The sleeping bags are on the walls."
+            },
+            {
+                "en": "watch a film",
+                "gap": "We don’t often watch a film in the evening."
+            },
+            {
+                "en": "watch TV",
+                "gap": "In the evening I usually watch TV."
+            },
+            {
+                "en": "work",
+                "gap": "Sven never works alone."
+            },
+            {
+                "en": "zoology",
+                "gap": "She is a professor of zoology."
+            }
+        ],
+        "unit3": [
+            {
+                "en": "address",
+                "gap": "Write down your address and phone number."
+            },
+            {
+                "en": "administrator",
+                "gap": "Just tell the administrator before you leave."
+            },
+            {
+                "en": "again",
+                "gap": "Say that again, please."
+            },
+            {
+                "en": "airline",
+                "gap": "My brother flies planes for a Japanese airline."
+            },
+            {
+                "en": "answer",
+                "gap": "What’s the answer to this question?"
+            },
+            {
+                "en": "author",
+                "gap": "His brother’s an author. He’s writing a book at the moment."
+            },
+            {
+                "en": "baker",
+                "gap": "His father’s a baker."
+            },
+            {
+                "en": "beginner",
+                "gap": "It’s difficult for a beginner to understand very much in a new language."
+            },
+            {
+                "en": "builder",
+                "gap": "My brother’s a builder."
+            },
+            {
+                "en": "bus driver",
+                "gap": "My brother drives buses in the city. He’s a bus driver."
+            },
+            {
+                "en": "businessman",
+                "gap": "He has his own company. He’s a businessman."
+            },
+            {
+                "en": "businesswoman",
+                "gap": "She has her own company. She’s a businesswoman."
+            },
+            {
+                "en": "calm",
+                "gap": "He’s a very calm person."
+            },
+            {
+                "en": "chef",
+                "gap": "Daniela cooks food in a restaurant. She’s a chef."
+            },
+            {
+                "en": "cleaner",
+                "gap": "My cousin cleans offices and people’s houses. She’s a cleaner."
+            },
+            {
+                "en": "clever",
+                "gap": "Your daughter’s very clever."
+            },
+            {
+                "en": "colleague",
+                "gap": "He really enjoys his job because his colleagues are also his friends."
+            },
+            {
+                "en": "company",
+                "gap": "He works for a company in the city."
+            },
+            {
+                "en": "dancer",
+                "gap": "She’s a dancer."
+            },
+            {
+                "en": "dentist",
+                "gap": "Sameeha cleans and fixes people’s teeth. She’s a dentist."
+            },
+            {
+                "en": "driver",
+                "gap": "My brother’s a really bad driver."
+            },
+            {
+                "en": "earn",
+                "gap": "She earns a lot of money."
+            },
+            {
+                "en": "factory",
+                "gap": "My father works in a factory."
+            },
+            {
+                "en": "farmer",
+                "gap": "My uncle’s a farmer."
+            },
+            {
+                "en": "fix",
+                "gap": "My son fixes a lot of different machines. He’s a mechanic."
+            },
+            {
+                "en": "forest",
+                "gap": "I work in a big forest."
+            },
+            {
+                "en": "forget",
+                "gap": "Don’t forget we’re going to the cinema tomorrow."
+            },
+            {
+                "en": "hairdresser",
+                "gap": "He washes hair, cuts it and dries it. He’s a hairdresser."
+            },
+            {
+                "en": "important",
+                "gap": "Which things do you think are most important in a job?"
+            },
+            {
+                "en": "inside",
+                "gap": "Do you work inside?"
+            },
+            {
+                "en": "internet",
+                "gap": "I used the internet to book my holiday."
+            },
+            {
+                "en": "journalist",
+                "gap": "Ekaterina writes for the newspaper. She’s a journalist."
+            },
+            {
+                "en": "later",
+                "gap": "I’ll see you later."
+            },
+            {
+                "en": "lonely",
+                "gap": "Some people think mechanics, cleaners, farmers and artists have a lonely life."
+            },
+            {
+                "en": "lookout",
+                "gap": "I am a ‘fire lookout’."
+            },
+            {
+                "en": "lucky",
+                "gap": "And who are these lucky people?"
+            },
+            {
+                "en": "magazine",
+                "gap": "My mother is a journalist and she works for a fashion magazine."
+            },
+            {
+                "en": "manager",
+                "gap": "She works in an office. She’s a manager."
+            },
+            {
+                "en": "money",
+                "gap": "She makes a lot of money."
+            },
+            {
+                "en": "MP player",
+                "gap": "It’s an MP player."
+            },
+            {
+                "en": "musician",
+                "gap": "My cousin sings and plays the guitar in a band. She’s a musician."
+            },
+            {
+                "en": "nurse",
+                "gap": "She works in a hospital and helps sick people. She’s a nurse."
+            },
+            {
+                "en": "office worker",
+                "gap": "They say that office workers are happy because they usually work as part of a team."
+            },
+            {
+                "en": "painter",
+                "gap": "My uncle is a painter."
+            },
+            {
+                "en": "part-time",
+                "gap": "My grandmother works part-time as a cleaner."
+            },
+            {
+                "en": "photographer",
+                "gap": "Manu takes pictures with his camera. He’s a photographer."
+            },
+            {
+                "en": "piano",
+                "gap": "I play the piano at a cinema in town."
+            },
+            {
+                "en": "pilot",
+                "gap": "My brother flies planes. He’s a pilot."
+            },
+            {
+                "en": "place of work",
+                "gap": "I think your place of work is very important."
+            },
+            {
+                "en": "police officer",
+                "gap": "Serena catches criminals and makes people feel safe. She’s a police officer."
+            },
+            {
+                "en": "retired",
+                "gap": "My parents are both retired."
+            },
+            {
+                "en": "salary",
+                "gap": "His salary is really good. He earns a lot of money."
+            },
+            {
+                "en": "silent",
+                "gap": "At my cinema, they have a lot of old, silent movies, so they need someone to play music."
+            },
+            {
+                "en": "singer",
+                "gap": "She’s a singer in a band."
+            },
+            {
+                "en": "student",
+                "gap": "She studies at university. She’s a student."
+            },
+            {
+                "en": "teacher",
+                "gap": "My sister’s a teacher."
+            },
+            {
+                "en": "ticket",
+                "gap": "I work in a cinema in town, but I don’t sell tickets."
+            },
+            {
+                "en": "tower",
+                "gap": "I work in a very high tower so I can see very far."
+            },
+            {
+                "en": "uniform",
+                "gap": "She hates the uniform that police officers wear."
+            },
+            {
+                "en": "unusual",
+                "gap": "Do you have an unusual job?"
+            },
+            {
+                "en": "well-paid",
+                "gap": "He’s very well-paid."
+            },
+            {
+                "en": "winner",
+                "gap": "You win. You’re the winner."
+            },
+            {
+                "en": "work freelance",
+                "gap": "I don’t have a boss because I work freelance."
+            },
+            {
+                "en": "work long hours",
+                "gap": "Do you work long hours?"
+            },
+            {
+                "en": "writer",
+                "gap": "My cousin is a famous writer."
+            }
+        ],
+        "unit4": [
+            {
+                "en": "above",
+                "gap": "My bed is above the kitchen."
+            },
+            {
+                "en": "airport",
+                "gap": "The roads to Coober Pedy are good and there’s an airport."
+            },
+            {
+                "en": "armchair",
+                "gap": "There’s an armchair in the living room."
+            },
+            {
+                "en": "bank",
+                "gap": "Where’s the bank?"
+            },
+            {
+                "en": "bathroom",
+                "gap": "There’s a small bathroom in my flat."
+            },
+            {
+                "en": "bed",
+                "gap": "There’s a small table next to my bed."
+            },
+            {
+                "en": "bedroom",
+                "gap": "In my house, there are three bedrooms."
+            },
+            {
+                "en": "behind",
+                "gap": "The East River is behind the building."
+            },
+            {
+                "en": "between",
+                "gap": "My flat’s on the fourth floor of a building between Delancey Street and Grand Street."
+            },
+            {
+                "en": "big",
+                "gap": "I need a big desk to work on."
+            },
+            {
+                "en": "booking form",
+                "gap": "Bring the booking form with you."
+            },
+            {
+                "en": "bookshop",
+                "gap": "There’s a bookshop opposite my flat."
+            },
+            {
+                "en": "building",
+                "gap": "It’s a modern building."
+            },
+            {
+                "en": "campsite",
+                "gap": "There are four or five hotels and there’s also a campsite."
+            },
+            {
+                "en": "capital",
+                "gap": "Coober Pedy is the opal capital of the world."
+            },
+            {
+                "en": "carpet",
+                "gap": "There’s a red carpet on the floor."
+            },
+            {
+                "en": "cheap",
+                "gap": "My flat’s in a cheap part of town."
+            },
+            {
+                "en": "chemist",
+                "gap": "Is there a chemist near hear?"
+            },
+            {
+                "en": "cinema",
+                "gap": "There’s a cinema near the hotel."
+            },
+            {
+                "en": "clean",
+                "gap": "I like to keep them very clean."
+            },
+            {
+                "en": "cooker",
+                "gap": "In the kitchen there’s a cooker."
+            },
+            {
+                "en": "dining room",
+                "gap": "There’s a dining room next to the kitchen."
+            },
+            {
+                "en": "dishwasher",
+                "gap": "The dishwasher is under the sink."
+            },
+            {
+                "en": "easy",
+                "gap": "It’s easy to find a flat in my town."
+            },
+            {
+                "en": "expensive",
+                "gap": "My computer is new and expensive."
+            },
+            {
+                "en": "fantastic",
+                "gap": "The food is fantastic."
+            },
+            {
+                "en": "flat",
+                "gap": "I live in a flat."
+            },
+            {
+                "en": "fridge",
+                "gap": "The fridge is next to the sink."
+            },
+            {
+                "en": "furniture",
+                "gap": "My furniture is mostly old."
+            },
+            {
+                "en": "garage",
+                "gap": "There’s a garage opposite my flat."
+            },
+            {
+                "en": "hairdresser’s",
+                "gap": "In the hotel, there is a swimming pool, a hairdresser’s and ninety-five bedrooms."
+            },
+            {
+                "en": "hospital",
+                "gap": "She works in a hospital."
+            },
+            {
+                "en": "housemate",
+                "gap": "My housemates are very messy."
+            },
+            {
+                "en": "in front of",
+                "gap": "It’s on the floor in front of the window."
+            },
+            {
+                "en": "instructions",
+                "gap": "Here are the instructions."
+            },
+            {
+                "en": "kitchen",
+                "gap": "There’s a small kitchen in my flat."
+            },
+            {
+                "en": "launderette",
+                "gap": "I go to the launderette to wash my clothes."
+            },
+            {
+                "en": "lazy",
+                "gap": "They are very lazy."
+            },
+            {
+                "en": "library",
+                "gap": "Excuse me, where’s the library?"
+            },
+            {
+                "en": "light",
+                "gap": "There are lots of windows, so it’s very light."
+            },
+            {
+                "en": "living room",
+                "gap": "In my flat, there is a living room."
+            },
+            {
+                "en": "market",
+                "gap": "It’s behind the market."
+            },
+            {
+                "en": "messy",
+                "gap": "I’m a messy worker."
+            },
+            {
+                "en": "mine",
+                "gap": "A lot of the people in Coober Pedy work in the opal mines."
+            },
+            {
+                "en": "museum",
+                "gap": "There’s a museum about the history of the town."
+            },
+            {
+                "en": "next to",
+                "gap": "It’s next to a restaurant."
+            },
+            {
+                "en": "old",
+                "gap": "I live in an old town."
+            },
+            {
+                "en": "old-fashioned",
+                "gap": "My house is very old-fashioned."
+            },
+            {
+                "en": "on",
+                "gap": "My bed is on a shelf."
+            },
+            {
+                "en": "opal",
+                "gap": "Near Coober Pedy, there are opals under the ground."
+            },
+            {
+                "en": "opposite",
+                "gap": "The building is opposite a -hour garage."
+            },
+            {
+                "en": "organized",
+                "gap": "I work from home, so I keep everything tidy and organized."
+            },
+            {
+                "en": "palace",
+                "gap": "It’s next to the palace."
+            },
+            {
+                "en": "passport",
+                "gap": "You usually need your passport to travel from here."
+            },
+            {
+                "en": "post office",
+                "gap": "Where’s the post office?"
+            },
+            {
+                "en": "railway station",
+                "gap": "There isn’t a railway station."
+            },
+            {
+                "en": "scarf",
+                "gap": "Take a hat or scarf to wear on your head."
+            },
+            {
+                "en": "shelf",
+                "gap": "My bed is on a shelf above the kitchen."
+            },
+            {
+                "en": "sink",
+                "gap": "In the kitchen, there’s a sink."
+            },
+            {
+                "en": "studio flat",
+                "gap": "I live in a studio flat."
+            },
+            {
+                "en": "swimming pool",
+                "gap": "There’s an underground swimming pool."
+            },
+            {
+                "en": "table",
+                "gap": "There’s a table next to the armchair."
+            },
+            {
+                "en": "temple",
+                "gap": "Please don’t take photographs inside the temple."
+            },
+            {
+                "en": "terrible",
+                "gap": "It’s a terrible restaurant."
+            },
+            {
+                "en": "theatre",
+                "gap": "Is there a theatre in Coober Pedy?"
+            },
+            {
+                "en": "tidy",
+                "gap": "Are you a tidy person?"
+            },
+            {
+                "en": "toilet",
+                "gap": "There’s a toilet next to the bedroom."
+            },
+            {
+                "en": "tour",
+                "gap": "These are the instructions for tomorrow’s tour."
+            },
+            {
+                "en": "tourist",
+                "gap": "There aren’t any tourists there."
+            },
+            {
+                "en": "tourist information centre",
+                "gap": "There’s a big tourist information centre."
+            },
+            {
+                "en": "town",
+                "gap": "There are some nice restaurants in the town centre."
+            },
+            {
+                "en": "travel",
+                "gap": "You need a passport to travel there."
+            },
+            {
+                "en": "ugly",
+                "gap": "It’s an ugly building."
+            },
+            {
+                "en": "under",
+                "gap": "The toilet and shower are under the shelf."
+            },
+            {
+                "en": "underground",
+                "gap": "Are there any underground buildings we can visit?"
+            },
+            {
+                "en": "visit",
+                "gap": "So can people visit the place?"
+            },
+            {
+                "en": "washing machine",
+                "gap": "There isn’t a washing machine in my flat."
+            },
+            {
+                "en": "window",
+                "gap": "There’s a table under the window."
+            }
+        ],
+        "unit5": [
+            {
+                "en": "baker’s",
+                "gap": "I buy bread from the baker’s."
+            },
+            {
+                "en": "boring",
+                "gap": "I don’t like shopping. It’s boring."
+            },
+            {
+                "en": "butcher’s",
+                "gap": "I buy meat from the butcher’s."
+            },
+            {
+                "en": "button",
+                "gap": "I choose a pair, press a button and the mirror shows me wearing them."
+            },
+            {
+                "en": "careful",
+                "gap": "Be careful!"
+            },
+            {
+                "en": "carefully",
+                "gap": "I try to spend my money carefully."
+            },
+            {
+                "en": "cash",
+                "gap": "I pay for things with cash."
+            },
+            {
+                "en": "changing room",
+                "gap": "The changing rooms are on the right."
+            },
+            {
+                "en": "clear",
+                "gap": "The water is very clear."
+            },
+            {
+                "en": "clearly",
+                "gap": "I can’t read that sign clearly."
+            },
+            {
+                "en": "coat",
+                "gap": "She’s wearing a coat and has a big scarf round her neck."
+            },
+            {
+                "en": "correct",
+                "gap": "I got all the answers correct."
+            },
+            {
+                "en": "correctly",
+                "gap": "Maria answers every question correctly."
+            },
+            {
+                "en": "dangerously",
+                "gap": "You’re driving dangerously."
+            },
+            {
+                "en": "designer shoes",
+                "gap": "She is also wearing designer shoes."
+            },
+            {
+                "en": "disappointed",
+                "gap": "I’m very disappointed with this product."
+            },
+            {
+                "en": "dress",
+                "gap": "She is wearing a blue dress."
+            },
+            {
+                "en": "gloves",
+                "gap": "She has a hat on her head and gloves on her hands."
+            },
+            {
+                "en": "good",
+                "gap": "He’s very good at languages."
+            },
+            {
+                "en": "great",
+                "gap": "It’s great value."
+            },
+            {
+                "en": "hat",
+                "gap": "She is wearing a hat."
+            },
+            {
+                "en": "heavy",
+                "gap": "It’s big and very heavy."
+            },
+            {
+                "en": "hoodie",
+                "gap": "She is wearing a hoodie."
+            },
+            {
+                "en": "information",
+                "gap": "Customers can’t ask for information like they could in the past."
+            },
+            {
+                "en": "jacket",
+                "gap": "I am wearing a blue jacket today."
+            },
+            {
+                "en": "jeans",
+                "gap": "Leila is wearing jeans."
+            },
+            {
+                "en": "jewellery",
+                "gap": "She is wearing gold jewellery."
+            },
+            {
+                "en": "meat",
+                "gap": "Where do you buy meat from?"
+            },
+            {
+                "en": "newsagent’s",
+                "gap": "I buy magazines and newspapers from the newsagent’s."
+            },
+            {
+                "en": "online",
+                "gap": "I do a lot of my shopping online."
+            },
+            {
+                "en": "poor",
+                "gap": "It’s very poor value."
+            },
+            {
+                "en": "postcard",
+                "gap": "The first vending machines were in London in the 880s and they sold postcards."
+            },
+            {
+                "en": "quiet",
+                "gap": "She’s very quiet."
+            },
+            {
+                "en": "quietly",
+                "gap": "Why are you talking so quietly?"
+            },
+            {
+                "en": "rainwater",
+                "gap": "Can you buy a bottle of rainwater for $ these days?"
+            },
+            {
+                "en": "reading glasses",
+                "gap": "She is wearing her reading glasses."
+            },
+            {
+                "en": "receipt",
+                "gap": "Would you like a receipt?"
+            },
+            {
+                "en": "recommend",
+                "gap": "I recommend it to everyone."
+            },
+            {
+                "en": "relax",
+                "gap": "Leila and Mike are relaxing at home."
+            },
+            {
+                "en": "return",
+                "gap": "When I buy something I don’t like, I return it to the shop."
+            },
+            {
+                "en": "sales",
+                "gap": "I stand outside and wait for the shops to open on the first day of the sales."
+            },
+            {
+                "en": "serious",
+                "gap": "It can make you look serious and important."
+            },
+            {
+                "en": "shopping centre",
+                "gap": "I buy things from a shopping centre. I prefer them to small shops."
+            },
+            {
+                "en": "shorts",
+                "gap": "Mike is wearing shorts."
+            },
+            {
+                "en": "simple",
+                "gap": "I enjoy a simple life."
+            },
+            {
+                "en": "skirt",
+                "gap": "Anita is wearing a skirt and top."
+            },
+            {
+                "en": "slow",
+                "gap": "Why is this train so slow?"
+            },
+            {
+                "en": "slowly",
+                "gap": "The train is moving very slowly."
+            },
+            {
+                "en": "socks",
+                "gap": "He is wearing socks."
+            },
+            {
+                "en": "spend",
+                "gap": "I spend a lot of money at the weekends."
+            },
+            {
+                "en": "strong",
+                "gap": "You are probably a strong person and you always try hard at everything you do."
+            },
+            {
+                "en": "suit",
+                "gap": "Paul is wearing a suit."
+            },
+            {
+                "en": "tie",
+                "gap": "I am wearing a tie."
+            },
+            {
+                "en": "trainers",
+                "gap": "He is wearing trainers."
+            },
+            {
+                "en": "trousers",
+                "gap": "The trousers are the same colour as the jacket."
+            },
+            {
+                "en": "T-shirt",
+                "gap": "Mike is wearing shorts and a T-shirt."
+            },
+            {
+                "en": "umbrella",
+                "gap": "She’s carrying an umbrella."
+            },
+            {
+                "en": "value",
+                "gap": "It’s great value."
+            },
+            {
+                "en": "vending machine",
+                "gap": "Can you buy eggs from a vending machine?"
+            },
+            {
+                "en": "virtual",
+                "gap": "I’m here today to try the ‘virtual mirror’."
+            },
+            {
+                "en": "wedding",
+                "gap": "She is at a wedding."
+            },
+            {
+                "en": "well",
+                "gap": "She writes well."
+            },
+            {
+                "en": "worth",
+                "gap": "It’s definitely not worth the money."
+            }
+        ],
+        "unit6": [
+            {
+                "en": "a bit",
+                "gap": "As you get closer, you notice something a bit unusual."
+            },
+            {
+                "en": "believe",
+                "gap": "They decided to make metal snakes and use them as money. They believed their snake money helped them to stay safe."
+            },
+            {
+                "en": "bobsleigh",
+                "gap": "People were surprised to see a bobsleigh team from Jamaica."
+            },
+            {
+                "en": "call",
+                "gap": "His boss called the owner of the bag."
+            },
+            {
+                "en": "change",
+                "gap": "That all changed in the 990s."
+            },
+            {
+                "en": "classroom",
+                "gap": "The classroom is cold today."
+            },
+            {
+                "en": "collect",
+                "gap": "The owner was very happy when he collected his lost money."
+            },
+            {
+                "en": "copy",
+                "gap": "She copied him."
+            },
+            {
+                "en": "decide",
+                "gap": "Bernardo Paz decided to use the space for something very different."
+            },
+            {
+                "en": "fashion designer",
+                "gap": "She decided to become a fashion designer."
+            },
+            {
+                "en": "finish",
+                "gap": "He finished work at  a.m."
+            },
+            {
+                "en": "founder",
+                "gap": "He was the founder of Sony."
+            },
+            {
+                "en": "ice skater",
+                "gap": "When she was younger she was a very good ice skater."
+            },
+            {
+                "en": "interesting",
+                "gap": "The sculptures were very interesting."
+            },
+            {
+                "en": "label",
+                "gap": "She has her own fashion label."
+            },
+            {
+                "en": "like",
+                "gap": "The Ancient Egyptians liked wearing their money on their fingers as rings."
+            },
+            {
+                "en": "live",
+                "gap": "The Lobi people of Ancient Ghana in Africa lived as farmers."
+            },
+            {
+                "en": "look",
+                "gap": "When he looked between the seats, he noticed a bag."
+            },
+            {
+                "en": "love",
+                "gap": "They loved it."
+            },
+            {
+                "en": "modern art",
+                "gap": "Modern art is really boring."
+            },
+            {
+                "en": "move",
+                "gap": "When was the last time you moved house?"
+            },
+            {
+                "en": "naughty",
+                "gap": "My son was very naughty."
+            },
+            {
+                "en": "notice",
+                "gap": "He noticed a bag between the seats."
+            },
+            {
+                "en": "open",
+                "gap": "She opened the window."
+            },
+            {
+                "en": "play",
+                "gap": "I played football when I was a child."
+            },
+            {
+                "en": "popular",
+                "gap": "They were very popular with the people watching because they tried so hard."
+            },
+            {
+                "en": "post",
+                "gap": "When was the last time you posted a letter?"
+            },
+            {
+                "en": "prepare",
+                "gap": "When was the last time you prepared a meal?"
+            },
+            {
+                "en": "product",
+                "gap": "Their first product was an electric rice cooker."
+            },
+            {
+                "en": "quite",
+                "gap": "It is quite far from the usual tourist spots of Brazil."
+            },
+            {
+                "en": "really",
+                "gap": "It is really important for the local area."
+            },
+            {
+                "en": "receive",
+                "gap": "When was the last time you received an email?"
+            },
+            {
+                "en": "return",
+                "gap": "He returned the money to his boss."
+            },
+            {
+                "en": "sculpture",
+                "gap": "I thought the sculptures in the park were a bit boring."
+            },
+            {
+                "en": "shout",
+                "gap": "When was the last time you shouted at someone?"
+            },
+            {
+                "en": "start",
+                "gap": "He started to clean his cab."
+            },
+            {
+                "en": "study",
+                "gap": "He studied for his exams yesterday."
+            },
+            {
+                "en": "successful",
+                "gap": "Today, she is very successful."
+            },
+            {
+                "en": "talk",
+                "gap": "They talked a lot about the football match."
+            },
+            {
+                "en": "thank",
+                "gap": "He thanked Adam and gave him $,000."
+            },
+            {
+                "en": "use",
+                "gap": "In the end, I used my ordinary shoes."
+            },
+            {
+                "en": "very",
+                "gap": "Bernardo Paz decided to use the space for something very different."
+            },
+            {
+                "en": "want",
+                "gap": "We wanted it."
+            },
+            {
+                "en": "watch",
+                "gap": "She watched them playing tennis."
+            }
+        ],
+        "unit7": [
+            {
+                "en": "app",
+                "gap": "I watched a programme about apps."
+            },
+            {
+                "en": "athletics",
+                "gap": "When he was a young boy, Usain Bolt did athletics all the time."
+            },
+            {
+                "en": "ban",
+                "gap": "He banned smoking in public places."
+            },
+            {
+                "en": "basketball",
+                "gap": "I play basketball with my friends."
+            },
+            {
+                "en": "borrow",
+                "gap": "I forgot my pen, so I borrowed one from my classmate."
+            },
+            {
+                "en": "bring",
+                "gap": "Can you bring me my glasses?"
+            },
+            {
+                "en": "bucket",
+                "gap": "He put his hand in a bucket of ice."
+            },
+            {
+                "en": "come",
+                "gap": "Why don’t you come to my house for dinner tomorrow?"
+            },
+            {
+                "en": "cycle",
+                "gap": "I usually cycle to work."
+            },
+            {
+                "en": "do",
+                "gap": "Do an hour of exercise each day."
+            },
+            {
+                "en": "drink",
+                "gap": "Drink eight glasses of water a day."
+            },
+            {
+                "en": "eat",
+                "gap": "Eat lots of fruit and vegetables."
+            },
+            {
+                "en": "fit",
+                "gap": "I cycle every day to keep fit."
+            },
+            {
+                "en": "football",
+                "gap": "They’re playing football in the park."
+            },
+            {
+                "en": "gadget",
+                "gap": "The programme was about apps and gadgets that check our health and daily exercise."
+            },
+            {
+                "en": "go fishing",
+                "gap": "I like to go fishing with my uncle."
+            },
+            {
+                "en": "gym",
+                "gap": "How often do you go to the gym?"
+            },
+            {
+                "en": "habit",
+                "gap": "Bloomberg tried to change their habits."
+            },
+            {
+                "en": "healthy",
+                "gap": "Michael Bloomberg wanted the people of New York to be healthy."
+            },
+            {
+                "en": "hero",
+                "gap": "They want to be like their heroes."
+            },
+            {
+                "en": "jog",
+                "gap": "I jog every morning."
+            },
+            {
+                "en": "judo",
+                "gap": "We do judo every Wednesday after work."
+            },
+            {
+                "en": "learn",
+                "gap": "I do sport to learn something new."
+            },
+            {
+                "en": "lend",
+                "gap": "Can you lend me £0?"
+            },
+            {
+                "en": "lift",
+                "gap": "He told them he always took the stairs, not the lift."
+            },
+            {
+                "en": "lightning",
+                "gap": "Lightning didn’t hit him, but there was lightning in the sky."
+            },
+            {
+                "en": "local",
+                "gap": "He played for his local team."
+            },
+            {
+                "en": "lose",
+                "gap": "I go swimming to lose weight."
+            },
+            {
+                "en": "marathon",
+                "gap": "He ran the Toronto marathon and became the first person aged 100 years old to finish a marathon."
+            },
+            {
+                "en": "mayor",
+                "gap": "In 2002, New York City chose a new mayor."
+            },
+            {
+                "en": "opinion",
+                "gap": "What’s your opinion, Jan?"
+            },
+            {
+                "en": "paper clip",
+                "gap": "The first group took more paper clips."
+            },
+            {
+                "en": "physical",
+                "gap": "Do physical jobs around the house."
+            },
+            {
+                "en": "progress",
+                "gap": "They met again to talk about their progress."
+            },
+            {
+                "en": "reduce",
+                "gap": "He also tried to reduce the size of sweet drinks."
+            },
+            {
+                "en": "research",
+                "gap": "New research shows that video gamers don’t live in the real world."
+            },
+            {
+                "en": "ride",
+                "gap": "Ride a bicycle."
+            },
+            {
+                "en": "routine",
+                "gap": "New gadgets and technology can help us change our routine and get more healthy."
+            },
+            {
+                "en": "run",
+                "gap": "Fauja didn’t run marathons when he was young."
+            },
+            {
+                "en": "sleep",
+                "gap": "Sleep seven to eight hours a night."
+            },
+            {
+                "en": "studio",
+                "gap": "Jan Hamilton and Sara White, two local parents, are in the studio with me to discuss this."
+            },
+            {
+                "en": "subtitle",
+                "gap": "How often do you watch films in English without reading the subtitles?"
+            },
+            {
+                "en": "swim",
+                "gap": "I swim every Saturday morning."
+            },
+            {
+                "en": "take",
+                "gap": "Take the stairs, not the lift."
+            },
+            {
+                "en": "tennis",
+                "gap": "People play tennis in my local park."
+            },
+            {
+                "en": "thunderstorm",
+                "gap": "There was a thunderstorm during the 100m World Championship final in 2013."
+            },
+            {
+                "en": "violent",
+                "gap": "Some video games aren’t OK for children because they’re very violent."
+            },
+            {
+                "en": "walk",
+                "gap": "Walk to work."
+            },
+            {
+                "en": "win",
+                "gap": "She always wins when she plays tennis."
+            },
+            {
+                "en": "yoga",
+                "gap": "I do yoga every Thursday morning."
+            }
+        ],
+        "unit8": [
+            {
+                "en": "air-conditioned",
+                "gap": "Air-conditioned taxis are a comfortable way to travel."
+            },
+            {
+                "en": "amazing",
+                "gap": "India is amazing!"
+            },
+            {
+                "en": "apartment",
+                "gap": "Do you prefer to stay in a hotel or rent an apartment?"
+            },
+            {
+                "en": "art gallery",
+                "gap": "I enjoy visiting all the art galleries and museums."
+            },
+            {
+                "en": "bike",
+                "gap": "I go to work by bike. It’s great exercise."
+            },
+            {
+                "en": "bus",
+                "gap": "I get the bus to work."
+            },
+            {
+                "en": "car",
+                "gap": "I go to work by car and it takes about an hour."
+            },
+            {
+                "en": "city break",
+                "gap": "I prefer going on a city break."
+            },
+            {
+                "en": "colourful",
+                "gap": "Everywhere is really colourful and interesting."
+            },
+            {
+                "en": "countryside",
+                "gap": "Do you like staying in the countryside?"
+            },
+            {
+                "en": "culture",
+                "gap": "For me, holidays are about culture."
+            },
+            {
+                "en": "dinner",
+                "gap": "Who do you usually have dinner with?"
+            },
+            {
+                "en": "employee",
+                "gap": "Indian railways have about a million employees."
+            },
+            {
+                "en": "environment",
+                "gap": "Cyclos are a fun way to get around and they’re good for the environment."
+            },
+            {
+                "en": "get",
+                "gap": "How often do you get a taxi to go somewhere?"
+            },
+            {
+                "en": "get around",
+                "gap": "How do you usually get around town?"
+            },
+            {
+                "en": "group",
+                "gap": "I like going on holiday with a group of friends."
+            },
+            {
+                "en": "guest house",
+                "gap": "We usually stay in a guest house."
+            },
+            {
+                "en": "guide",
+                "gap": "Sometimes I go on a tour with a guide, because it’s a great way to learn about a place."
+            },
+            {
+                "en": "helmet",
+                "gap": "Your driver has to give you a helmet and you have to wear it."
+            },
+            {
+                "en": "hold",
+                "gap": "You should hold the driver so you don’t fall off!"
+            },
+            {
+                "en": "lie",
+                "gap": "Do you like lying on the beach?"
+            },
+            {
+                "en": "map",
+                "gap": "Do you usually take a map or do you get lost?"
+            },
+            {
+                "en": "miss",
+                "gap": "Did you miss your bus?"
+            },
+            {
+                "en": "mountain",
+                "gap": "We prefer to stay in the mountains."
+            },
+            {
+                "en": "passenger",
+                "gap": "25million passengers travel on 11,000 trains every day in India."
+            },
+            {
+                "en": "platform",
+                "gap": "Which platform does it leave from?"
+            },
+            {
+                "en": "queue",
+                "gap": "You have to stand in a queue."
+            },
+            {
+                "en": "railway",
+                "gap": "What can you tell me about Indian railways?"
+            },
+            {
+                "en": "rainforest",
+                "gap": "The ruins are in the middle of a rainforest and they’re really beautiful."
+            },
+            {
+                "en": "rent",
+                "gap": "I normally rent an apartment by the sea."
+            },
+            {
+                "en": "return",
+                "gap": "Would you like a single or return?"
+            },
+            {
+                "en": "ruins",
+                "gap": "My favourite thing was the ruins of a Mayan city in Tikal."
+            },
+            {
+                "en": "seat belt",
+                "gap": "You don’t have to wear a seat belt for the whole journey on a plane."
+            },
+            {
+                "en": "sightseeing",
+                "gap": "We don’t go sightseeing."
+            },
+            {
+                "en": "single",
+                "gap": "Just a single, please."
+            },
+            {
+                "en": "street life",
+                "gap": "We think it’s the best way to see the street life of the city."
+            },
+            {
+                "en": "sunrise",
+                "gap": "I climbed to the top of a temple at sunrise."
+            },
+            {
+                "en": "taxi",
+                "gap": "Sometimes I miss my train, so I have to get a taxi."
+            },
+            {
+                "en": "text message",
+                "gap": "How many text messages do you get?"
+            },
+            {
+                "en": "tip",
+                "gap": "You don’t have to leave a tip in restaurants."
+            },
+            {
+                "en": "tradition",
+                "gap": "I don’t know why they do it, it’s just a tradition."
+            },
+            {
+                "en": "train",
+                "gap": "Sometimes I get up late and I miss my train."
+            },
+            {
+                "en": "trek",
+                "gap": "We like to trek in the mountains."
+            }
+        ],
+        "unit9": [
+            {
+                "en": "bake",
+                "gap": "Do you bake your own bread?"
+            },
+            {
+                "en": "beef",
+                "gap": "I’d like some beef, please."
+            },
+            {
+                "en": "boil",
+                "gap": "I always boil my vegetables."
+            },
+            {
+                "en": "bowl",
+                "gap": "Put all the ingredients into a bowl."
+            },
+            {
+                "en": "bread",
+                "gap": "Not many people bake their own bread these days."
+            },
+            {
+                "en": "castle",
+                "gap": "Can you see the castle from here?"
+            },
+            {
+                "en": "chicken",
+                "gap": "Could I have the grilled chicken?"
+            },
+            {
+                "en": "chop",
+                "gap": "Can you chop the onions with this knife, please?"
+            },
+            {
+                "en": "cube",
+                "gap": "Can I have some beef cubes?"
+            },
+            {
+                "en": "delicious",
+                "gap": "That looks delicious, but what is it?"
+            },
+            {
+                "en": "food processor",
+                "gap": "Put everything in the food processor for one minute to make the soup."
+            },
+            {
+                "en": "fork",
+                "gap": "There are knives and forks on the table."
+            },
+            {
+                "en": "fruit",
+                "gap": "We both had fruit and yoghurt for breakfast this morning."
+            },
+            {
+                "en": "fry",
+                "gap": "For breakfast, I often fry bacon, eggs and mushrooms."
+            },
+            {
+                "en": "frying pan",
+                "gap": "I have one frying pan and two saucepans."
+            },
+            {
+                "en": "honey",
+                "gap": "I have honey and yoghurt for breakfast."
+            },
+            {
+                "en": "ingredient",
+                "gap": "Have you bought the ingredients for the meal?"
+            },
+            {
+                "en": "jam",
+                "gap": "Do you have any jam?"
+            },
+            {
+                "en": "kettle",
+                "gap": "You boil water in a kettle to make tea."
+            },
+            {
+                "en": "knife",
+                "gap": "You need a sharp knife to chop the onions."
+            },
+            {
+                "en": "lemon",
+                "gap": "There are only 7 calories in a lemon."
+            },
+            {
+                "en": "lemonade",
+                "gap": "Can I have a bottle of lemonade?"
+            },
+            {
+                "en": "main course",
+                "gap": "Could I have the grilled chicken for the main course?"
+            },
+            {
+                "en": "microwave",
+                "gap": "The most important thing in my kitchen is the microwave."
+            },
+            {
+                "en": "mix",
+                "gap": "Mix all the ingredients together."
+            },
+            {
+                "en": "mushroom",
+                "gap": "Do you have any mushrooms?"
+            },
+            {
+                "en": "noodles",
+                "gap": "It comes with some noodles."
+            },
+            {
+                "en": "olive",
+                "gap": "I’d like some olives instead, please."
+            },
+            {
+                "en": "oven",
+                "gap": "The oven is very hot."
+            },
+            {
+                "en": "pasta",
+                "gap": "We can have pasta any day."
+            },
+            {
+                "en": "pear",
+                "gap": "I’d like a pear."
+            },
+            {
+                "en": "plate",
+                "gap": "I have a beautiful old set of plates and bowls for when people come for dinner."
+            },
+            {
+                "en": "prepare",
+                "gap": "The average American family today spends just 7 minutes a day preparing meals."
+            },
+            {
+                "en": "ready-made",
+                "gap": "A lot of people buy ready-made meals."
+            },
+            {
+                "en": "rice",
+                "gap": "We have some rice."
+            },
+            {
+                "en": "roast",
+                "gap": "To roast meat, you need a very hot oven."
+            },
+            {
+                "en": "rooftop",
+                "gap": "There are wonderful views of the city from the rooftop restaurant."
+            },
+            {
+                "en": "salad",
+                "gap": "Can I have some salad with that as well, please?"
+            },
+            {
+                "en": "saucepan",
+                "gap": "I’ve got three saucepans in my kitchen."
+            },
+            {
+                "en": "secret",
+                "gap": "What is the secret to good health?"
+            },
+            {
+                "en": "spoon",
+                "gap": "Mix the water and flour together in a bowl with a spoon."
+            },
+            {
+                "en": "starter",
+                "gap": "Would you like a starter?"
+            },
+            {
+                "en": "survey",
+                "gap": "According to a survey, 49% of 18–24-year-olds don’t know how many minutes it takes to boil an egg!"
+            },
+            {
+                "en": "sweet",
+                "gap": "This jam is very sweet."
+            },
+            {
+                "en": "sweetcorn",
+                "gap": "Can I have some sweetcorn?"
+            },
+            {
+                "en": "takeaway food",
+                "gap": "When we buy takeaway food, we don’t really think about what we’re eating."
+            },
+            {
+                "en": "unhealthy",
+                "gap": "That’s an unhealthy meal."
+            },
+            {
+                "en": "vegetable",
+                "gap": "The chicken comes with vegetables or salad."
+            },
+            {
+                "en": "view",
+                "gap": "There’s a nice view of the castle."
+            },
+            {
+                "en": "wonderful",
+                "gap": "It has a wonderful menu."
+            },
+            {
+                "en": "yoghurt",
+                "gap": "I have yoghurt for breakfast."
+            }
+        ],
+        "unit10": [
+            {
+                "en": "accent",
+                "gap": "She’s got a really strong accent."
+            },
+            {
+                "en": "blow",
+                "gap": "The wind is blowing really hard."
+            },
+            {
+                "en": "busy",
+                "gap": "The busiest airport of the three is Beijing, then Dubai and then Los Angeles."
+            },
+            {
+                "en": "camp",
+                "gap": "You are going to walk 10km from the main camp."
+            },
+            {
+                "en": "climate",
+                "gap": "Siberia has a very cold climate."
+            },
+            {
+                "en": "close",
+                "gap": "He’s a close friend of mine."
+            },
+            {
+                "en": "cloudy",
+                "gap": "It’s going to be cloudy this afternoon."
+            },
+            {
+                "en": "coast",
+                "gap": "There are some beautiful beaches near the west coast of Thailand."
+            },
+            {
+                "en": "compass",
+                "gap": "I think a map and compass are the most useful things."
+            },
+            {
+                "en": "crazy",
+                "gap": "People do some crazy things!"
+            },
+            {
+                "en": "deep",
+                "gap": "Lake Baikal is more than 600 metres deep."
+            },
+            {
+                "en": "desert",
+                "gap": "It’s a cold desert because it’s so far north and it sometimes snows there."
+            },
+            {
+                "en": "dry",
+                "gap": "It’s dry this morning."
+            },
+            {
+                "en": "east",
+                "gap": "The east of the country is quite cold."
+            },
+            {
+                "en": "equipment",
+                "gap": "The runners have to carry their food and equipment."
+            },
+            {
+                "en": "first-aid kit",
+                "gap": "What happens if we need the first-aid kit?"
+            },
+            {
+                "en": "foggy",
+                "gap": "It’s cold and foggy."
+            },
+            {
+                "en": "freeze",
+                "gap": "It’s so cold. We’re going to freeze if we go outside."
+            },
+            {
+                "en": "freezing",
+                "gap": "It’s freezing here today."
+            },
+            {
+                "en": "hard worker",
+                "gap": "He’s a really hard worker."
+            },
+            {
+                "en": "high",
+                "gap": "Did you have a high score in your last test?"
+            },
+            {
+                "en": "hot",
+                "gap": "It’s the hottest time of the year."
+            },
+            {
+                "en": "icy",
+                "gap": "The roads are very icy."
+            },
+            {
+                "en": "island",
+                "gap": "The Andaman Sea has some very beautiful tropical islands and white sandy beaches near the west coast of Thailand."
+            },
+            {
+                "en": "jungle",
+                "gap": "The Amazon jungle is the biggest area of rainforest in the world."
+            },
+            {
+                "en": "lake",
+                "gap": "It’s the biggest and deepest lake in the world."
+            },
+            {
+                "en": "large",
+                "gap": "Mount Kilimanjaro is one of the largest volcanoes in the world."
+            },
+            {
+                "en": "lighter",
+                "gap": "I think a lighter is more important than a stove."
+            },
+            {
+                "en": "low",
+                "gap": "Which jobs usually have the lowest salaries?"
+            },
+            {
+                "en": "mild",
+                "gap": "They have mild weather on the island."
+            },
+            {
+                "en": "north",
+                "gap": "There are more mountains in the north."
+            },
+            {
+                "en": "oasis",
+                "gap": "Al Hasa is the largest oasis in Saudi Arabia."
+            },
+            {
+                "en": "rain",
+                "gap": "It’s cloudy this morning but dry, so we don’t expect any rain."
+            },
+            {
+                "en": "rainy",
+                "gap": "It’s cloudy and rainy here today."
+            },
+            {
+                "en": "river",
+                "gap": "Which river is the longest in the world?"
+            },
+            {
+                "en": "sandy",
+                "gap": "There are lots of beautiful sandy beaches on the coast."
+            },
+            {
+                "en": "score",
+                "gap": "He got a low score in the test."
+            },
+            {
+                "en": "shine",
+                "gap": "The sun is going to shine all afternoon."
+            },
+            {
+                "en": "sleeper",
+                "gap": "He’s a light sleeper."
+            },
+            {
+                "en": "snow",
+                "gap": "There was a lot of snow last night."
+            },
+            {
+                "en": "snowy",
+                "gap": "It’s cold and snowy here this morning."
+            },
+            {
+                "en": "south",
+                "gap": "The best beaches are in the south."
+            },
+            {
+                "en": "storm",
+                "gap": "There was a big storm."
+            },
+            {
+                "en": "stove",
+                "gap": "I think we should take one stove instead of three."
+            },
+            {
+                "en": "sunny",
+                "gap": "By the afternoon, it’s going to be warm and sunny but not really hot."
+            },
+            {
+                "en": "survival",
+                "gap": "The survival camp is in the rainforest next to the river."
+            },
+            {
+                "en": "survive",
+                "gap": "You need to survive for three days and two nights and find your way back to the main camp."
+            },
+            {
+                "en": "temperature",
+                "gap": "By the afternoon, it’s going to be warm and sunny but not really hot, with temperatures of around 20 degrees Celsius."
+            },
+            {
+                "en": "tent",
+                "gap": "You can take a tent and a sleeping bag."
+            },
+            {
+                "en": "thunder",
+                "gap": "There was a big storm last night with very loud thunder."
+            },
+            {
+                "en": "torch",
+                "gap": "I’m going to take a torch to see in the dark."
+            },
+            {
+                "en": "traffic",
+                "gap": "Is there usually heavy traffic on the way to this class?"
+            },
+            {
+                "en": "tropical",
+                "gap": "There are some beautiful tropical islands there."
+            },
+            {
+                "en": "warm",
+                "gap": "It’s going to be warm this afternoon."
+            },
+            {
+                "en": "waterfall",
+                "gap": "It’s a very big waterfall on the Zambezi River."
+            },
+            {
+                "en": "weather",
+                "gap": "The forecast is for mild weather tomorrow."
+            },
+            {
+                "en": "weather forecast",
+                "gap": "Did you hear the weather forecast this morning?"
+            },
+            {
+                "en": "west",
+                "gap": "We’re going to the countryside in the west."
+            },
+            {
+                "en": "wet",
+                "gap": "It’s going to be wet this afternoon."
+            },
+            {
+                "en": "windy",
+                "gap": "It was really windy."
+            },
+            {
+                "en": "worker",
+                "gap": "Martha’s a hard worker. She works very long hours."
+            }
+        ],
+        "unit11": [
+            {
+                "en": "annually",
+                "gap": "It’s better to visit your dentist every six months than to go annually."
+            },
+            {
+                "en": "award",
+                "gap": "The writers believe it is wrong to award the prize to one person."
+            },
+            {
+                "en": "awful",
+                "gap": "It’s really awful. I failed my driving test."
+            },
+            {
+                "en": "bark",
+                "gap": "My neighbour’s dog barks very loudly."
+            },
+            {
+                "en": "brilliant",
+                "gap": "He was a brilliant scientist."
+            },
+            {
+                "en": "celebrate",
+                "gap": "People are telling us how they’re going to celebrate the day."
+            },
+            {
+                "en": "charity",
+                "gap": "Give the money to charity."
+            },
+            {
+                "en": "coach",
+                "gap": "The coach helps them with their game."
+            },
+            {
+                "en": "common",
+                "gap": "In the past, it was common for a really brilliant scientist like Isaac Newton to work alone."
+            },
+            {
+                "en": "community",
+                "gap": "Now it’s your turn in your community."
+            },
+            {
+                "en": "constantly",
+                "gap": "My phone at work rings constantly."
+            },
+            {
+                "en": "crucial",
+                "gap": "She is a crucial member of the team."
+            },
+            {
+                "en": "delighted",
+                "gap": "I was really delighted to get the job."
+            },
+            {
+                "en": "dietician",
+                "gap": "The dietician tells them what to eat and drink."
+            },
+            {
+                "en": "elderly",
+                "gap": "Visit an elderly neighbour."
+            },
+            {
+                "en": "excellent",
+                "gap": "Yes, she’s really excellent! She always wins."
+            },
+            {
+                "en": "fail",
+                "gap": "I failed my driving test!"
+            },
+            {
+                "en": "focus",
+                "gap": "Perhaps it’s time to stop focusing only on the individual."
+            },
+            {
+                "en": "help",
+                "gap": "Help a neighbour with difficult jobs."
+            },
+            {
+                "en": "homeless",
+                "gap": "Make sandwiches for homeless people."
+            },
+            {
+                "en": "huge",
+                "gap": "We should remember that there is often a huge team of many more people working hard to make everything possible."
+            },
+            {
+                "en": "improve",
+                "gap": "Nelson Mandela worked all his life to change and improve South Africa."
+            },
+            {
+                "en": "individual",
+                "gap": "There’s usually a team that is working with the individual."
+            },
+            {
+                "en": "look after",
+                "gap": "Look after a neighbour’s pet."
+            },
+            {
+                "en": "lovely",
+                "gap": "The weather was really lovely on our holiday."
+            },
+            {
+                "en": "massive",
+                "gap": "They live in a massive house with ten bedrooms."
+            },
+            {
+                "en": "maximum",
+                "gap": "Only a maximum of three people can win the Nobel Prize at one time."
+            },
+            {
+                "en": "member",
+                "gap": "We are looking for new members."
+            },
+            {
+                "en": "organize",
+                "gap": "Organize a sports event."
+            },
+            {
+                "en": "paint",
+                "gap": "Paint the classrooms."
+            },
+            {
+                "en": "plant",
+                "gap": "Plant a tree."
+            },
+            {
+                "en": "player",
+                "gap": "In sport, for example, there is usually a team of people helping the player of individual sports."
+            },
+            {
+                "en": "repair",
+                "gap": "Repair some broken furniture."
+            },
+            {
+                "en": "esident",
+                "gap": "What are the residents like in your neighbourhood?"
+            },
+            {
+                "en": "scared",
+                "gap": "My sister is always really scared when she sees a spider."
+            },
+            {
+                "en": "soil",
+                "gap": "You need to plant these flowers in good soil."
+            },
+            {
+                "en": "tax",
+                "gap": "I think rich people and companies should pay more tax to the government."
+            },
+            {
+                "en": "teach",
+                "gap": "Teach someone a language."
+            },
+            {
+                "en": "team",
+                "gap": "These days, scientists usually work in teams."
+            },
+            {
+                "en": "tiny",
+                "gap": "My car is really tiny!"
+            },
+            {
+                "en": "worried",
+                "gap": "Are you worried about the local area?"
+            }
+        ],
+        "unit12": [
+            {
+                "en": "acrobat",
+                "gap": "The acrobats were doing some amazing things."
+            },
+            {
+                "en": "action film",
+                "gap": "I don’t like action films because they’re really boring."
+            },
+            {
+                "en": "album",
+                "gap": "She’s had a few successful albums."
+            },
+            {
+                "en": "animation",
+                "gap": "Shrek and Finding Nemo are two of my favourite animations."
+            },
+            {
+                "en": "ate past simple of eat",
+                "gap": "I ate everything that was on my plate."
+            },
+            {
+                "en": "autistic",
+                "gap": "Stephen Wiltshire is autistic and couldn’t speak until he was five."
+            },
+            {
+                "en": "band",
+                "gap": "I’ve always wanted to play in a band."
+            },
+            {
+                "en": "began",
+                "gap": "He began learning the piano two years later."
+            },
+            {
+                "en": "begun",
+                "gap": "I think they’ve already begun."
+            },
+            {
+                "en": "black and white",
+                "gap": "The film The Artist is black and white."
+            },
+            {
+                "en": "blind",
+                "gap": "Nobuyuki Tsjuii was born blind."
+            },
+            {
+                "en": "bought",
+                "gap": "bought Nicki a present from the new shop in town."
+            },
+            {
+                "en": "broke",
+                "gap": "It wasn’t me! He broke it."
+            },
+            {
+                "en": "broken",
+                "gap": "She has broken her arm."
+            },
+            {
+                "en": "circus",
+                "gap": "Have you ever been to a circus?"
+            },
+            {
+                "en": "clap",
+                "gap": "When it finished, people stood up and clapped."
+            },
+            {
+                "en": "collection",
+                "gap": "Since I was a child, I’ve had a big music collection."
+            },
+            {
+                "en": "comedy",
+                "gap": "Everybody likes comedies."
+            },
+            {
+                "en": "concert",
+                "gap": "He gave his first big concert in Tokyo when he was  years old."
+            },
+            {
+                "en": "deaf",
+                "gap": "She is deaf, but this hasn’t stopped her dream of dancing."
+            },
+            {
+                "en": "drama",
+                "gap": "My favourite film is Titanic. It’s a drama, but also a love story."
+            },
+            {
+                "en": "drank",
+                "gap": "I drank the water slowly."
+            },
+            {
+                "en": "driven",
+                "gap": "We’ve driven over 0 kilometres today."
+            },
+            {
+                "en": "drove",
+                "gap": "Paul drove them home after the concert."
+            },
+            {
+                "en": "drum",
+                "gap": "The teacher asked the class to ‘feel’ the sound of a drum through their feet."
+            },
+            {
+                "en": "drunk",
+                "gap": "They’ve drunk all the orange juice."
+            },
+            {
+                "en": "eaten",
+                "gap": "I’ve eaten too much!"
+            },
+            {
+                "en": "experience",
+                "gap": "This is a new experience for me."
+            },
+            {
+                "en": "favourite",
+                "gap": "My favourite film is Titanic."
+            },
+            {
+                "en": "future",
+                "gap": "It’s a science-fiction film and it’s set in the future."
+            },
+            {
+                "en": "gallery",
+                "gap": "He has his own art gallery in London."
+            },
+            {
+                "en": "gave",
+                "gap": "I gave it to you yesterday."
+            },
+            {
+                "en": "given",
+                "gap": "Have you given him the front door key?"
+            },
+            {
+                "en": "gone",
+                "gap": "She’s already gone, I’m afraid."
+            },
+            {
+                "en": "grew",
+                "gap": "The tree grew too big, so we had to cut it down."
+            },
+            {
+                "en": "grown",
+                "gap": "The children have grown so much!"
+            },
+            {
+                "en": "hang on",
+                "gap": "Hang on a minute, I’ll just get her."
+            },
+            {
+                "en": "heard",
+                "gap": "I’ve never heard of her."
+            },
+            {
+                "en": "helicopter",
+                "gap": "He spent just 20 minutes in a helicopter in the sky above the city."
+            },
+            {
+                "en": "horror film",
+                "gap": "I don’t like horror films because they’re scary."
+            },
+            {
+                "en": "illness",
+                "gap": "Tai Lihua couldn’t hear from the age of two after an illness."
+            },
+            {
+                "en": "independence",
+                "gap": "When India celebrated 50 years of independence, she sang her own song and three million people watched her live."
+            },
+            {
+                "en": "instrument",
+                "gap": "I’ve always wanted to play a musical instrument."
+            },
+            {
+                "en": "lesson",
+                "gap": "I had dance lessons at school, but I wasn’t very good."
+            },
+            {
+                "en": "love story",
+                "gap": "It’s a drama, but also a love story."
+            },
+            {
+                "en": "met past participle of meet",
+                "gap": "I’ve never met a famous person."
+            },
+            {
+                "en": "music festival",
+                "gap": "I usually go to two or three music festivals a year."
+            },
+            {
+                "en": "musical",
+                "gap": "I’ve been to see all the big musicals – they’re fantastic."
+            },
+            {
+                "en": "opera",
+                "gap": "I sometimes go to the opera with my cousin."
+            },
+            {
+                "en": "painting lesson",
+                "gap": "I’ve had lots of drawing and painting lessons."
+            },
+            {
+                "en": "play",
+                "gap": "I love going to the theatre to see a play."
+            },
+            {
+                "en": "prefer",
+                "gap": "I prefer comedies."
+            },
+            {
+                "en": "prize",
+                "gap": "He won many prizes."
+            },
+            {
+                "en": "ran",
+                "gap": "She ran a marathon."
+            },
+            {
+                "en": "romantic film",
+                "gap": "I prefer romantic films."
+            },
+            {
+                "en": "saw",
+                "gap": "I saw him outside the cinema yesterday afternoon."
+            },
+            {
+                "en": "scary",
+                "gap": "Sometimes you don’t want to look because they’re scary."
+            },
+            {
+                "en": "science fiction film",
+                "gap": "Avatar is a science fiction film."
+            },
+            {
+                "en": "seen",
+                "gap": "I’ve already seen that film."
+            },
+            {
+                "en": "set",
+                "gap": "It’s set in the future."
+            },
+            {
+                "en": "spoke",
+                "gap": "She spoke in a really quiet voice."
+            },
+            {
+                "en": "spoken",
+                "gap": "I’ve spoken to them about the noise."
+            },
+            {
+                "en": "stage",
+                "gap": "We sat very close to the stage."
+            },
+            {
+                "en": "star",
+                "gap": "It stars Kate Winslet and Leonardo DiCaprio."
+            },
+            {
+                "en": "surprise",
+                "gap": "It was the surprise success of 2012."
+            },
+            {
+                "en": "went",
+                "gap": "He went there last week."
+            },
+            {
+                "en": "woke up",
+                "gap": "My 8th birthday was on a Saturday and I was really excited when I woke up."
+            },
+            {
+                "en": "woken",
+                "gap": "Have you ever woken up feeling hungry in the middle of the night?"
+            },
+            {
+                "en": "written",
+                "gap": "I’ve never written a comment on a website."
+            },
+            {
+                "en": "wrote",
+                "gap": "I wrote a lot of emails yesterday."
+            }
+        ]
+    }
+}

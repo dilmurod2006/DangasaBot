@@ -1,0 +1,128 @@
+American
+My boss isn’t American.
+Arabic
+They’re Arabic.
+artist 
+She’s an artist.
+aunt 
+Is she your aunt?
+boss 
+My boss isn’t American, she’s Turkish.
+British
+I’m from London. I’m British.
+brother 
+My brother is a doctor.
+brother-in-law
+My brother-in-law is a doctor.
+business management 
+He studied business management at university.
+car mechanic
+I’m a car mechanic.
+child 
+They have one child.
+children
+How old are your children?
+Chinese
+My neighbours are Chinese.
+communicate 
+I’m good at communicating with people.
+country 
+Which country are you from?
+cousin 
+Anna is my cousin.
+daughter 
+Their daughter is married.
+designer
+She’s Australian and she’s a designer.
+Emirati
+They’re from Dubai. They’re Emirati.
+family name
+His family name’s Ramirez.
+father 
+Her father’s name is Hasan.
+fluent
+She’s fluent in Portuguese.
+French
+My wife’s mother is French.
+genetic
+The village doctor says it isn’t genetic; he thinks it’s something in the water or the food.
+granddaughter 
+Her granddaughter is at university.
+grandfather 
+How old is your grandfather?
+grandmother 
+My grandmother is Spanish.
+grandson 
+They have one grandson.
+Greek
+Are your neighbours Greek?
+Hungarian
+Are you Hungarian?
+husband 
+My husband is Italian.
+introduce 
+Let me introduce you to the other students.
+Italian
+They’re Italian.
+Japanese
+My neighbours are Japanese.
+last name
+In some countries, wives can have their husband’s last names after they’re married.
+Lebanese
+Are they Lebanese?
+married 
+Are you married?
+Mexican
+I’m from Mexico. I’m Mexican.
+mother 
+She is the mother of six children.
+nationality
+What’s your nationality?
+neighbour 
+The neighbours are a family from Iraq.
+nephew 
+My nephew’s name is José.
+niece 
+What’s your niece’s name?
+Nigerian
+I’m from Nigeria. I’m Nigerian.
+Pakistani
+His father’s from Pakistan. He’s Pakistani.
+Polish
+There’s a Polish supermarket next to our house.
+Portuguese
+Is José Portuguese?
+restaurant 
+I work in a restaurant.
+Russian
+My neighbour is Russian.
+saxophone
+I play the saxophone.
+single 
+Is Sylvie single?
+sister 
+How old is your sister?
+son 
+I’m his son.
+Spanish
+Is Martha Spanish?
+stepfather
+Didier is my stepfather.
+supermarket 
+My Saturday job is at a Chinese supermarket called Jing Jing Foods.
+Turkish
+She isn’t American, she’s Turkish.
+twin 
+Four of their sons are twins.
+typical 
+It’s a typical village, but its people are not typical.
+uncle 
+My uncle’s a teacher.
+unemployed 
+I’m unemployed at the moment.
+Urdu
+They speak Urdu.
+Vietnamese
+She’s Vietnamese.
+wife 
+His wife’s name is Rashida.
